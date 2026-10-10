@@ -1,0 +1,21 @@
+{
+ "date": "2026-10-10",
+ "schema": 7,
+ "books": 33,
+ "hadith": 99567,
+ "texts": 199271,
+ "narrators": 10090,
+ "grades": 82441,
+ "sources": [
+  "fawazahmed0-hadith-api",
+  "hadith-json",
+  "open-hadith-data",
+  "openiti-najashi",
+  "openiti-taqrib",
+  "thaqalayn"
+ ],
+ "file": "isnady-db-2026-10-10.zip",
+ "size": 284871316,
+ "sha256": "a1be1df5480c1624b5fc58d92299fc9173e1504b42fab092580258a7d3c3aa49",
+ "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-10-10/isnady-db-2026-10-10.zip"
+}
