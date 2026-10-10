@@ -33,7 +33,7 @@ The data of [isnady](https://github.com/bayramkotan/isnady): every hadith collec
 | Book | | Compiler | Languages | Hadith |
 |---|---|---|---|---|
 | al-Kafi — al-Kulayni | الكافي | al-Kulayni (d | ara, eng | 14,241 |
-| 'Uyun Akhbar al-Rida — al-Saduq | عيون أخبار الرضا | al-Saduq (d | ara, eng | 954 |
+| ʿUyun Akhbar al-Rida — al-Saduq | عيون أخبار الرضا | al-Saduq (d | ara, eng | 954 |
 | al-Amali — al-Saduq | الأمالي (الصدوق) | al-Saduq (d | ara, eng | 1,082 |
 | al-Khisal — al-Saduq | الخصال | al-Saduq (d | ara, eng | 1,282 |
 | al-Tawhid — al-Saduq | التوحيد | al-Saduq (d | ara, eng | 575 |
