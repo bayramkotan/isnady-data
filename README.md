@@ -2,7 +2,7 @@
 
 The data of [isnady](https://github.com/bayramkotan/isnady): every hadith collection and rijal work it reads, Sunni and Shia, in one format. isnady imports from here (Settings → Data sources, or `iy catalog import ID`).
 
-- `sunni/<book>/`, `shia/<book>/` — `book.json` (numbers, chapters, references, grades) and one file per language (`ara.json`, `eng.json` …)
+- `sunni/<book>/`, `shia/<book>/` (the book's full title and its compiler's name, e.g. `sunni/musnad_ahmad_ibn_hanbal/`) — `book.json` (numbers, chapters, references, grades) and one file per language (`ara.json`, `eng.json` …)
 - `rijal/sunni/`, `rijal/shia/` — the works on the narrators
 - `catalog.json` — the list isnady reads
 
