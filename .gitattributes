@@ -1,0 +1,3 @@
+*.json -diff
+*.md -diff
+README.md diff
