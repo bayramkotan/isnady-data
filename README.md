@@ -132,6 +132,43 @@ al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mi
 | **Taqrib al-Tahdhib — Ibn Hajar al-'Asqalani** | تقريب التهذيب | Sunni | 8,824 | every name in the Sunni chains is matched to its narrator; his rank on Ibn Hajar's twelve-step scale, tabaqa, death year and book marks | `taqrib_al_tahdhib_ibn_hajar_al_asqalani` |
 | **Rijal al-Najashi — al-Najashi (Shia)** | رجال النجاشي | Shia | 1,266 | every name in the Shia chains is matched to its narrator; his reliability and creed in the critic's own (Imami) terms — never on the Sunni scale | `rijal_al_najashi_ahmad_ibn_ali_al_najashi` |
 
+## 📖 The Qur'an
+
+The text isnady shows in **Books → The Qur'an**, downloaded only when the reader asks for it: the Arabic (Tanzil's simple script) and **60 translations in 18 languages**, each verse as its translator gave it. isnady can also read any other translation of the 98 languages from the source named in the credits.
+
+| Language | Translations |
+|---|---|
+| Turkish | Diyanet İşleri, Diyanet Vakfı, Elmalılı Hamdi Yazır, Elmalılı Hamdi Yazır (sadeleştirilmiş), Ali Bulaç, Süleyman Ateş, Hasan Basri Çantay, Abdülbâki Gölpınarlı, Adem Uğur, Ali Fikri Yavuz, Celal Yıldırım, Suat Yıldırım, Muhammed Esed, İbn Kesîr (meal), Fî Zılâli'l-Kur'ân, Tefhîmü'l-Kur'ân, Gültekin Onan, Muhammet Abay, Şaban Piriş, Yaşar Nuri Öztürk |
+| English | Saheeh International (Umm Muhammad), M. A. S. Abdel Haleem, Mustafa Khattab (The Clear Quran), Mufti Taqi Usmani, al-Hilali and Muhsin Khan, Marmaduke Pickthall, Abdullah Yusuf Ali, Muhammad Asad, Wahiduddin Khan, Ali Quli Qara'i, Mohammad Habib Shakir, Muhammad Sarwar |
+| Urdu | Fateh Muhammad Jalandhry, Muhammad Junagarhi, Abul A'la Maududi |
+| Indonesian | Kementerian Agama RI, King Fahd Complex |
+| Bengali | Muhiuddin Khan, Abu Bakr Zakaria |
+| French | Muhammad Hamidullah, Rachid Maach |
+| Russian | Elmir Kuliev, Abu Adel |
+| Tamil | Jan Trust Foundation, Abdulhameed Baqavi |
+| German | A. S. F. Bubenheim and N. Elyas, Amir Zaidan |
+| Persian | Hussain Ansarian, Mohammad Mahdi Fooladvand, Naser Makarem Shirazi |
+| Spanish | Julio Cortés, Muhammad Isa García |
+| Bosnian | Besim Korkut |
+| Albanian | Sherif Ahmeti |
+| Azerbaijani | Vasim Mammadaliyev and Ziya Bunyadov, Alikhan Musayev |
+| Uzbek | Muhammad Sodik Muhammad Yusuf |
+| Kazakh | Khalifah Altai |
+| Tatar | Yakub ibn Nugman |
+| Malay | Abdullah Muhammad Basmeih |
+
+Layout: `quran/suras.json` (the 114 suras: names in Arabic, English and Turkish, Meccan or Medinan, verses), `quran/<language>/<key>.json` (`{"schema": "isnady-quran/1", "key", "language", "translator", "direction", "verses": [[sura, verse, text], …]}`), and the `quran` section of catalog.json listing them.
+
+## 📜 Sira and tabaqat
+
+The life of the Prophet ﷺ and the lives of the scholars, generation by generation — read in isnady's **Books** like the hadith collections, chapter by chapter; al-Dhahabi's two works also give the text beside a narrator's written life and the Huffaz of the Scholars page.
+
+| Work | | Compiler | What it holds | Import id |
+|---|---|---|---|---|
+| **al-Sira al-Nabawiyya** | السيرة النبوية لابن هشام | Ibn Hisham (d. 218; 213 in some sources), from Ibn Ishaq (d. 151) | 218; 213 in some sources), from Ibn Ishaq (d. 151). The life of the Prophet ﷺ as Ibn Ishaq told it and Ibn Hisham edited it: his lineage, birth, the revelation, Mecca, the Hijra, the campaigns and his death — 264 chapters, 2,109 sections, each report with its chain as the author gives it. | `al_sira_al_nabawiyya_ibn_hisham` |
+| **Siyar A'lam al-Nubala'** | سير أعلام النبلاء | al-Dhahabi (d. 748) | 748). The lives of the Companions, the Successors and the scholars after them, generation by generation, to al-Dhahabi's own time — 5,851 entries; the source of the written lives isnady shows beside a narrator. | `siyar_alam_al_nubala_al_dhahabi` |
+| **Tadhkirat al-Huffaz** | تذكرة الحفاظ | al-Dhahabi (d. 748) | 748). The 1,176 hadith masters (huffaz) from Abu Bakr to al-Dhahabi's teachers, in 21 generations; the source of the Huffaz of the Scholars page. | `tadhkirat_al_huffaz_al_dhahabi` |
+
 ---
 
 ## 🧩 The formats
@@ -202,6 +239,7 @@ Every book records its licence, and isnady shows them all under **Help → Licen
 | Musnad Ahmad, Sunan al-Darimi — voweled text | Open Hadith Data | ODbL 1.0 (a database made from it stays under the ODbL) |
 | Riyad al-Salihin, al-Shama'il, Bulugh al-Maram, al-Adab al-Mufrad, Mishkat — text and English | sunnah.com, via AhmedBaset/hadith-json | not stated |
 | The Shia collections — text, English, grades | thaqalayn.net, via MohammedArab1/ThaqalaynAPI | not stated |
-| The Taqrib, al-Najashi's Rijal | the OpenITI corpus | not stated |
+| The Taqrib, al-Najashi's Rijal; Ibn Hisham's Sira; al-Dhahabi's Siyar and Tadhkira | the OpenITI corpus | not stated |
+| The Qur'an — the Arabic and the translations | fawazahmed0/quran-api; the Arabic from tanzil.net, the translations from Tanzil, QuranEnc and others, each named in catalog.json | The Unlicense (the collection); Tanzil's text verbatim, as its terms ask |
 
 isnady itself is MIT-licensed: [bayramkotan/isnady](https://github.com/bayramkotan/isnady).

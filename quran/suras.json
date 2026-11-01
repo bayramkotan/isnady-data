@@ -1,0 +1,1031 @@
+{
+ "schema": "isnady-quran-suras/1",
+ "suras": [
+  {
+   "n": 1,
+   "name": "Al-Faatiha",
+   "english": "The Opening",
+   "arabic": "سُوْرَةُ الْفَاتِحَةِ",
+   "tr": "Fâtiha",
+   "place": "Mecca",
+   "verses": 7
+  },
+  {
+   "n": 2,
+   "name": "Al-Baqara",
+   "english": "The Cow",
+   "arabic": "سُوْرَةُ البَقَرَةِ",
+   "tr": "Bakara",
+   "place": "Madina",
+   "verses": 286
+  },
+  {
+   "n": 3,
+   "name": "Aal-i-Imraan",
+   "english": "The Family of Imraan",
+   "arabic": "سُوْرَةُ اٰلِ عِمْرٰنَ",
+   "tr": "Âl-i İmrân",
+   "place": "Madina",
+   "verses": 200
+  },
+  {
+   "n": 4,
+   "name": "An-Nisaa",
+   "english": "The Women",
+   "arabic": "سُوْرَةُ النِّسَآءِ",
+   "tr": "Nisâ",
+   "place": "Madina",
+   "verses": 176
+  },
+  {
+   "n": 5,
+   "name": "Al-Maaida",
+   "english": "The Table",
+   "arabic": "سُوْرَةُ المَآئِدَةِ",
+   "tr": "Mâide",
+   "place": "Madina",
+   "verses": 120
+  },
+  {
+   "n": 6,
+   "name": "Al-An'aam",
+   "english": "The Cattle",
+   "arabic": "سُوْرَةُ الْاَنْعَامِ",
+   "tr": "En'âm",
+   "place": "Mecca",
+   "verses": 165
+  },
+  {
+   "n": 7,
+   "name": "Al-A'raaf",
+   "english": "The Heights",
+   "arabic": "سُوْرَةُ الْاَعْرَافِ",
+   "tr": "A'râf",
+   "place": "Mecca",
+   "verses": 206
+  },
+  {
+   "n": 8,
+   "name": "Al-Anfaal",
+   "english": "The Spoils of War",
+   "arabic": "سُوْرَةُ الْاَنْفَالِ",
+   "tr": "Enfâl",
+   "place": "Madina",
+   "verses": 75
+  },
+  {
+   "n": 9,
+   "name": "At-Tawba",
+   "english": "The Repentance",
+   "arabic": "سُوْرَةُ التَّوْبَةِ",
+   "tr": "Tevbe",
+   "place": "Madina",
+   "verses": 129
+  },
+  {
+   "n": 10,
+   "name": "Yunus",
+   "english": "Jonas",
+   "arabic": "سُوْرَةُ يُوْنُسَ",
+   "tr": "Yûnus",
+   "place": "Mecca",
+   "verses": 109
+  },
+  {
+   "n": 11,
+   "name": "Hud",
+   "english": "Hud",
+   "arabic": "سُوْرَةُ هُوْدٍ",
+   "tr": "Hûd",
+   "place": "Mecca",
+   "verses": 123
+  },
+  {
+   "n": 12,
+   "name": "Yusuf",
+   "english": "Joseph",
+   "arabic": "سُوْرَةُ يُوسُفَ",
+   "tr": "Yûsuf",
+   "place": "Mecca",
+   "verses": 111
+  },
+  {
+   "n": 13,
+   "name": "Ar-Ra'd",
+   "english": "The Thunder",
+   "arabic": "سُوْرَةُ الرَّعْدِ",
+   "tr": "Ra'd",
+   "place": "Madina",
+   "verses": 43
+  },
+  {
+   "n": 14,
+   "name": "Ibrahim",
+   "english": "Abraham",
+   "arabic": "سُوْرَةُ اِبْرَاهِيْمَ",
+   "tr": "İbrâhîm",
+   "place": "Mecca",
+   "verses": 52
+  },
+  {
+   "n": 15,
+   "name": "Al-Hijr",
+   "english": "The Rock",
+   "arabic": "سُوْرَةُ الْحِجْرِ",
+   "tr": "Hicr",
+   "place": "Mecca",
+   "verses": 99
+  },
+  {
+   "n": 16,
+   "name": "An-Nahl",
+   "english": "The Bee",
+   "arabic": "سُوْرَةُ النَّحْلِ",
+   "tr": "Nahl",
+   "place": "Mecca",
+   "verses": 128
+  },
+  {
+   "n": 17,
+   "name": "Al-Israa",
+   "english": "The Night Journey",
+   "arabic": "سُوْرَةُ الإِسۡرَاءِ",
+   "tr": "İsrâ",
+   "place": "Mecca",
+   "verses": 111
+  },
+  {
+   "n": 18,
+   "name": "Al-Kahf",
+   "english": "The Cave",
+   "arabic": "سُوْرَةُ الْكَهْفِ",
+   "tr": "Kehf",
+   "place": "Mecca",
+   "verses": 110
+  },
+  {
+   "n": 19,
+   "name": "Maryam",
+   "english": "Mary",
+   "arabic": "سُوْرَةُ مَرْيَمَ",
+   "tr": "Meryem",
+   "place": "Mecca",
+   "verses": 98
+  },
+  {
+   "n": 20,
+   "name": "Taa-Haa",
+   "english": "Taa-Haa",
+   "arabic": "سُوْرَةُ طٰهٰ",
+   "tr": "Tâhâ",
+   "place": "Mecca",
+   "verses": 135
+  },
+  {
+   "n": 21,
+   "name": "Al-Anbiyaa",
+   "english": "The Prophets",
+   "arabic": "سُوْرَةُ الْاَنْۣبِيَآءِ",
+   "tr": "Enbiyâ",
+   "place": "Mecca",
+   "verses": 112
+  },
+  {
+   "n": 22,
+   "name": "Al-Hajj",
+   "english": "The Pilgrimage",
+   "arabic": "سُوْرَةُ الْحَجِّ",
+   "tr": "Hac",
+   "place": "Madina",
+   "verses": 78
+  },
+  {
+   "n": 23,
+   "name": "Al-Muminoon",
+   "english": "The Believers",
+   "arabic": "سُوْرَةُ الْمُؤْمِنُوْنَ",
+   "tr": "Mü'minûn",
+   "place": "Mecca",
+   "verses": 118
+  },
+  {
+   "n": 24,
+   "name": "An-Noor",
+   "english": "The Light",
+   "arabic": "سُوْرَةُ النُّوْرِ",
+   "tr": "Nûr",
+   "place": "Madina",
+   "verses": 64
+  },
+  {
+   "n": 25,
+   "name": "Al-Furqaan",
+   "english": "The Criterion",
+   "arabic": "سُوْرَةُ الْفُرْقَانِ",
+   "tr": "Furkân",
+   "place": "Mecca",
+   "verses": 77
+  },
+  {
+   "n": 26,
+   "name": "Ash-Shu'araa",
+   "english": "The Poets",
+   "arabic": "سُوْرَةُ الشُّعَرَآءِ",
+   "tr": "Şuarâ",
+   "place": "Mecca",
+   "verses": 227
+  },
+  {
+   "n": 27,
+   "name": "An-Naml",
+   "english": "The Ant",
+   "arabic": "سُوْرَةُ النَّمْلِ",
+   "tr": "Neml",
+   "place": "Mecca",
+   "verses": 93
+  },
+  {
+   "n": 28,
+   "name": "Al-Qasas",
+   "english": "The Stories",
+   "arabic": "سُوْرَةُ الْقَصَصِ",
+   "tr": "Kasas",
+   "place": "Mecca",
+   "verses": 88
+  },
+  {
+   "n": 29,
+   "name": "Al-Ankaboot",
+   "english": "The Spider",
+   "arabic": "سُوْرَةُ الْعَنْكَبُوْتِ",
+   "tr": "Ankebût",
+   "place": "Mecca",
+   "verses": 69
+  },
+  {
+   "n": 30,
+   "name": "Ar-Room",
+   "english": "The Romans",
+   "arabic": "سُوْرَةُ الرُّوْمِ",
+   "tr": "Rûm",
+   "place": "Mecca",
+   "verses": 60
+  },
+  {
+   "n": 31,
+   "name": "Luqman",
+   "english": "Luqman",
+   "arabic": "سُوْرَةُ لُقْمَانَ",
+   "tr": "Lokmân",
+   "place": "Mecca",
+   "verses": 34
+  },
+  {
+   "n": 32,
+   "name": "As-Sajda",
+   "english": "The Prostration",
+   "arabic": "سُوْرَةُ السَّجْدَةِ",
+   "tr": "Secde",
+   "place": "Mecca",
+   "verses": 30
+  },
+  {
+   "n": 33,
+   "name": "Al-Ahzaab",
+   "english": "The Clans",
+   "arabic": "سُوْرَةُ الْاَحْزَابِ",
+   "tr": "Ahzâb",
+   "place": "Madina",
+   "verses": 73
+  },
+  {
+   "n": 34,
+   "name": "Saba",
+   "english": "Sheba",
+   "arabic": "سُوْرَةُ سَبَاٍ",
+   "tr": "Sebe'",
+   "place": "Mecca",
+   "verses": 54
+  },
+  {
+   "n": 35,
+   "name": "Faatir",
+   "english": "The Originator",
+   "arabic": "سُوْرَةُ فَاطِرٍ",
+   "tr": "Fâtır",
+   "place": "Mecca",
+   "verses": 45
+  },
+  {
+   "n": 36,
+   "name": "Yaseen",
+   "english": "Yaseen",
+   "arabic": "سُوْرَةُ يٰسٓ",
+   "tr": "Yâsîn",
+   "place": "Mecca",
+   "verses": 83
+  },
+  {
+   "n": 37,
+   "name": "As-Saaffaat",
+   "english": "Those drawn up in Ranks",
+   "arabic": "سُوْرَةُ الصَّافَّاتِ",
+   "tr": "Sâffât",
+   "place": "Mecca",
+   "verses": 182
+  },
+  {
+   "n": 38,
+   "name": "Saad",
+   "english": "The letter Saad",
+   "arabic": "سُوْرَةُ صٓ",
+   "tr": "Sâd",
+   "place": "Mecca",
+   "verses": 88
+  },
+  {
+   "n": 39,
+   "name": "Az-Zumar",
+   "english": "The Groups",
+   "arabic": "سُوْرَةُ الزُّمَرِ",
+   "tr": "Zümer",
+   "place": "Mecca",
+   "verses": 75
+  },
+  {
+   "n": 40,
+   "name": "Ghafir",
+   "english": "The Forgiver",
+   "arabic": "سُوْرَةُ الْمُؤْمِنِ",
+   "tr": "Mü'min",
+   "place": "Mecca",
+   "verses": 85
+  },
+  {
+   "n": 41,
+   "name": "Fussilat",
+   "english": "Explained in detail",
+   "arabic": "سُوْرَةُ فُصِّلَتۡ",
+   "tr": "Fussilet",
+   "place": "Mecca",
+   "verses": 54
+  },
+  {
+   "n": 42,
+   "name": "Ash-Shura",
+   "english": "Consultation",
+   "arabic": "سُوْرَةُ الشُّوْرٰي",
+   "tr": "Şûrâ",
+   "place": "Mecca",
+   "verses": 53
+  },
+  {
+   "n": 43,
+   "name": "Az-Zukhruf",
+   "english": "Ornaments of gold",
+   "arabic": "سُوْرَةُ الزُّخْرُفِ",
+   "tr": "Zuhruf",
+   "place": "Mecca",
+   "verses": 89
+  },
+  {
+   "n": 44,
+   "name": "Ad-Dukhaan",
+   "english": "The Smoke",
+   "arabic": "سُوْرَةُ الدُّخَانِ",
+   "tr": "Duhân",
+   "place": "Mecca",
+   "verses": 59
+  },
+  {
+   "n": 45,
+   "name": "Al-Jaathiya",
+   "english": "Crouching",
+   "arabic": "سُوْرَةُ الْجَاثِيَةِ",
+   "tr": "Câsiye",
+   "place": "Mecca",
+   "verses": 37
+  },
+  {
+   "n": 46,
+   "name": "Al-Ahqaf",
+   "english": "The Dunes",
+   "arabic": "سُوْرَةُ الْاَحْقَافِ",
+   "tr": "Ahkâf",
+   "place": "Mecca",
+   "verses": 35
+  },
+  {
+   "n": 47,
+   "name": "Muhammad",
+   "english": "Muhammad",
+   "arabic": "سُوْرَةُ مُحَمَّدٍ",
+   "tr": "Muhammed",
+   "place": "Madina",
+   "verses": 38
+  },
+  {
+   "n": 48,
+   "name": "Al-Fath",
+   "english": "The Victory",
+   "arabic": "سُوْرَةُ الْفَتْحِ",
+   "tr": "Fetih",
+   "place": "Madina",
+   "verses": 29
+  },
+  {
+   "n": 49,
+   "name": "Al-Hujuraat",
+   "english": "The Inner Apartments",
+   "arabic": "سُوْرَةُ الْحُجُراتِ",
+   "tr": "Hucurât",
+   "place": "Madina",
+   "verses": 18
+  },
+  {
+   "n": 50,
+   "name": "Qaaf",
+   "english": "The letter Qaaf",
+   "arabic": "سُوْرَةُ قٓ",
+   "tr": "Kâf",
+   "place": "Mecca",
+   "verses": 45
+  },
+  {
+   "n": 51,
+   "name": "Adh-Dhaariyat",
+   "english": "The Winnowing Winds",
+   "arabic": "سُوْرَةُ الذَّارِياتِ",
+   "tr": "Zâriyât",
+   "place": "Mecca",
+   "verses": 60
+  },
+  {
+   "n": 52,
+   "name": "At-Tur",
+   "english": "The Mount",
+   "arabic": "سُوْرَةُ الطُّوْرِ",
+   "tr": "Tûr",
+   "place": "Mecca",
+   "verses": 49
+  },
+  {
+   "n": 53,
+   "name": "An-Najm",
+   "english": "The Star",
+   "arabic": "سُوْرَةُ النَّجْمِ",
+   "tr": "Necm",
+   "place": "Mecca",
+   "verses": 62
+  },
+  {
+   "n": 54,
+   "name": "Al-Qamar",
+   "english": "The Moon",
+   "arabic": "سُوْرَةُ الْقَمَرِ",
+   "tr": "Kamer",
+   "place": "Mecca",
+   "verses": 55
+  },
+  {
+   "n": 55,
+   "name": "Ar-Rahmaan",
+   "english": "The Beneficent",
+   "arabic": "سُوْرَةُ الرَّحْمٰنِ",
+   "tr": "Rahmân",
+   "place": "Madina",
+   "verses": 78
+  },
+  {
+   "n": 56,
+   "name": "Al-Waaqia",
+   "english": "The Inevitable",
+   "arabic": "سُوْرَةُ الْوَاقِعَةِ",
+   "tr": "Vâkıa",
+   "place": "Mecca",
+   "verses": 96
+  },
+  {
+   "n": 57,
+   "name": "Al-Hadid",
+   "english": "The Iron",
+   "arabic": "سُوْرَةُ الْحَدِيْدِ",
+   "tr": "Hadîd",
+   "place": "Madina",
+   "verses": 29
+  },
+  {
+   "n": 58,
+   "name": "Al-Mujaadila",
+   "english": "The Pleading Woman",
+   "arabic": "سُوْرَةُ الْمُجَادَلَةِ",
+   "tr": "Mücâdele",
+   "place": "Madina",
+   "verses": 22
+  },
+  {
+   "n": 59,
+   "name": "Al-Hashr",
+   "english": "The Exile",
+   "arabic": "سُوْرَةُ الْحَشْرِ",
+   "tr": "Haşr",
+   "place": "Madina",
+   "verses": 24
+  },
+  {
+   "n": 60,
+   "name": "Al-Mumtahana",
+   "english": "She that is to be examined",
+   "arabic": "سُوْرَةُ الْمُمْتَحِنَةِ",
+   "tr": "Mümtehine",
+   "place": "Madina",
+   "verses": 13
+  },
+  {
+   "n": 61,
+   "name": "As-Saff",
+   "english": "The Ranks",
+   "arabic": "سُوْرَةُ الصَّفِّ",
+   "tr": "Saf",
+   "place": "Madina",
+   "verses": 14
+  },
+  {
+   "n": 62,
+   "name": "Al-Jumu'a",
+   "english": "Friday",
+   "arabic": "سُوْرَةُ الْجُمُعَةِ",
+   "tr": "Cuma",
+   "place": "Madina",
+   "verses": 11
+  },
+  {
+   "n": 63,
+   "name": "Al-Munaafiqoon",
+   "english": "The Hypocrites",
+   "arabic": "سُوْرَةُ الْمُنَافِقُوْنَ",
+   "tr": "Münâfikûn",
+   "place": "Madina",
+   "verses": 11
+  },
+  {
+   "n": 64,
+   "name": "At-Taghaabun",
+   "english": "Mutual Disillusion",
+   "arabic": "سُوْرَةُ التَّغَابُنِ",
+   "tr": "Teğâbün",
+   "place": "Madina",
+   "verses": 18
+  },
+  {
+   "n": 65,
+   "name": "At-Talaaq",
+   "english": "Divorce",
+   "arabic": "سُوْرَةُ الطَّلَاقِ",
+   "tr": "Talâk",
+   "place": "Madina",
+   "verses": 12
+  },
+  {
+   "n": 66,
+   "name": "At-Tahrim",
+   "english": "The Prohibition",
+   "arabic": "سُوْرَةُ التَّحْرِيْمِ",
+   "tr": "Tahrîm",
+   "place": "Madina",
+   "verses": 12
+  },
+  {
+   "n": 67,
+   "name": "Al-Mulk",
+   "english": "The Sovereignty",
+   "arabic": "سُوْرَةُ الْمُلْكِ",
+   "tr": "Mülk",
+   "place": "Mecca",
+   "verses": 30
+  },
+  {
+   "n": 68,
+   "name": "Al-Qalam",
+   "english": "The Pen",
+   "arabic": "سُوْرَةُ الْقَلَمِ",
+   "tr": "Kalem",
+   "place": "Mecca",
+   "verses": 52
+  },
+  {
+   "n": 69,
+   "name": "Al-Haaqqa",
+   "english": "The Reality",
+   "arabic": "سُوْرَةُ الْحَآقَّةِ",
+   "tr": "Hâkka",
+   "place": "Mecca",
+   "verses": 52
+  },
+  {
+   "n": 70,
+   "name": "Al-Ma'aarij",
+   "english": "The Ascending Stairways",
+   "arabic": "سُوْرَةُ الْمَعَارِجِ",
+   "tr": "Meâric",
+   "place": "Mecca",
+   "verses": 44
+  },
+  {
+   "n": 71,
+   "name": "Nooh",
+   "english": "Noah",
+   "arabic": "سُوْرَةُ نُوْحٍ",
+   "tr": "Nûh",
+   "place": "Mecca",
+   "verses": 28
+  },
+  {
+   "n": 72,
+   "name": "Al-Jinn",
+   "english": "The Jinn",
+   "arabic": "سُوْرَةُ الْجِنِّ",
+   "tr": "Cin",
+   "place": "Mecca",
+   "verses": 28
+  },
+  {
+   "n": 73,
+   "name": "Al-Muzzammil",
+   "english": "The Enshrouded One",
+   "arabic": "سُوْرَةُ الْمُزَّمِّلِ",
+   "tr": "Müzzemmil",
+   "place": "Mecca",
+   "verses": 20
+  },
+  {
+   "n": 74,
+   "name": "Al-Muddaththir",
+   "english": "The Cloaked One",
+   "arabic": "سُوْرَةُ الْمُدَّثِّرِ",
+   "tr": "Müddessir",
+   "place": "Mecca",
+   "verses": 56
+  },
+  {
+   "n": 75,
+   "name": "Al-Qiyaama",
+   "english": "The Resurrection",
+   "arabic": "سُوْرَةُ الْقِيَامَةِ",
+   "tr": "Kıyâme",
+   "place": "Mecca",
+   "verses": 40
+  },
+  {
+   "n": 76,
+   "name": "Al-Insaan",
+   "english": "Man",
+   "arabic": "سُوْرَةُ الدَّهْرِ",
+   "tr": "İnsân",
+   "place": "Madina",
+   "verses": 31
+  },
+  {
+   "n": 77,
+   "name": "Al-Mursalaat",
+   "english": "The Emissaries",
+   "arabic": "سُوْرَةُ الْمُرْسَلَاتِ",
+   "tr": "Mürselât",
+   "place": "Mecca",
+   "verses": 50
+  },
+  {
+   "n": 78,
+   "name": "An-Naba",
+   "english": "The Announcement",
+   "arabic": "سُوْرَةُ النَّبَاِ",
+   "tr": "Nebe'",
+   "place": "Mecca",
+   "verses": 40
+  },
+  {
+   "n": 79,
+   "name": "An-Naazi'aat",
+   "english": "Those who drag forth",
+   "arabic": "سُوْرَةُ النَّازِعَاتِ",
+   "tr": "Nâziât",
+   "place": "Mecca",
+   "verses": 46
+  },
+  {
+   "n": 80,
+   "name": "Abasa",
+   "english": "He frowned",
+   "arabic": "سُوْرَةُ عَبَسَ",
+   "tr": "Abese",
+   "place": "Mecca",
+   "verses": 42
+  },
+  {
+   "n": 81,
+   "name": "At-Takwir",
+   "english": "The Overthrowing",
+   "arabic": "سُوْرَةُ التَّكْوِيْرِ",
+   "tr": "Tekvîr",
+   "place": "Mecca",
+   "verses": 29
+  },
+  {
+   "n": 82,
+   "name": "Al-Infitaar",
+   "english": "The Cleaving",
+   "arabic": "سُوْرَةُ الْاِنْفِطَارِ",
+   "tr": "İnfitâr",
+   "place": "Mecca",
+   "verses": 19
+  },
+  {
+   "n": 83,
+   "name": "Al-Mutaffifin",
+   "english": "Defrauding",
+   "arabic": "سُوْرَةُ المُطَفِّفِيْنَ",
+   "tr": "Mutaffifîn",
+   "place": "Mecca",
+   "verses": 36
+  },
+  {
+   "n": 84,
+   "name": "Al-Inshiqaaq",
+   "english": "The Splitting Open",
+   "arabic": "سُوْرَةُ الاِنْشِقَاقِ",
+   "tr": "İnşikâk",
+   "place": "Mecca",
+   "verses": 25
+  },
+  {
+   "n": 85,
+   "name": "Al-Burooj",
+   "english": "The Constellations",
+   "arabic": "سُوْرَةُ الْبُرُوْجِ",
+   "tr": "Bürûc",
+   "place": "Mecca",
+   "verses": 22
+  },
+  {
+   "n": 86,
+   "name": "At-Taariq",
+   "english": "The Morning Star",
+   "arabic": "سُوْرَةُ الطَّارِقِ",
+   "tr": "Târık",
+   "place": "Mecca",
+   "verses": 17
+  },
+  {
+   "n": 87,
+   "name": "Al-A'laa",
+   "english": "The Most High",
+   "arabic": "سُوْرَةُ الْاَعْلٰي",
+   "tr": "A'lâ",
+   "place": "Mecca",
+   "verses": 19
+  },
+  {
+   "n": 88,
+   "name": "Al-Ghaashiya",
+   "english": "The Overwhelming",
+   "arabic": "سُوْرَةُ الْغَاشِيَةِ",
+   "tr": "Gâşiye",
+   "place": "Mecca",
+   "verses": 26
+  },
+  {
+   "n": 89,
+   "name": "Al-Fajr",
+   "english": "The Dawn",
+   "arabic": "سُوْرَةُ الْفَجْرِ",
+   "tr": "Fecr",
+   "place": "Mecca",
+   "verses": 30
+  },
+  {
+   "n": 90,
+   "name": "Al-Balad",
+   "english": "The City",
+   "arabic": "سُوْرَةُ الْبَلَدِ",
+   "tr": "Beled",
+   "place": "Mecca",
+   "verses": 20
+  },
+  {
+   "n": 91,
+   "name": "Ash-Shams",
+   "english": "The Sun",
+   "arabic": "سُوْرَةُ الشَّمْسِ",
+   "tr": "Şems",
+   "place": "Mecca",
+   "verses": 15
+  },
+  {
+   "n": 92,
+   "name": "Al-Lail",
+   "english": "The Night",
+   "arabic": "سُوْرَةُ الَّيْلِ",
+   "tr": "Leyl",
+   "place": "Mecca",
+   "verses": 21
+  },
+  {
+   "n": 93,
+   "name": "Ad-Dhuhaa",
+   "english": "The Morning Hours",
+   "arabic": "سُوْرَةُ الضُّحٰي",
+   "tr": "Duhâ",
+   "place": "Mecca",
+   "verses": 11
+  },
+  {
+   "n": 94,
+   "name": "Ash-Sharh",
+   "english": "The Consolation",
+   "arabic": "سُوْرَةُ الشَّرْحِ",
+   "tr": "İnşirâh",
+   "place": "Mecca",
+   "verses": 8
+  },
+  {
+   "n": 95,
+   "name": "At-Tin",
+   "english": "The Fig",
+   "arabic": "سُوْرَةُ التِّيْنِ",
+   "tr": "Tîn",
+   "place": "Mecca",
+   "verses": 8
+  },
+  {
+   "n": 96,
+   "name": "Al-Alaq",
+   "english": "The Clot",
+   "arabic": "سُوْرَةُ الْعَلَقِ",
+   "tr": "Alak",
+   "place": "Mecca",
+   "verses": 19
+  },
+  {
+   "n": 97,
+   "name": "Al-Qadr",
+   "english": "The Power, Fate",
+   "arabic": "سُوْرَةُ الْقَدْرِ",
+   "tr": "Kadr",
+   "place": "Mecca",
+   "verses": 5
+  },
+  {
+   "n": 98,
+   "name": "Al-Bayyina",
+   "english": "The Evidence",
+   "arabic": "سُوْرَةُ الْبَيِّنَةِ",
+   "tr": "Beyyine",
+   "place": "Madina",
+   "verses": 8
+  },
+  {
+   "n": 99,
+   "name": "Az-Zalzala",
+   "english": "The Earthquake",
+   "arabic": "سُوْرَةُ الزِّلْزَالِ",
+   "tr": "Zilzâl",
+   "place": "Madina",
+   "verses": 8
+  },
+  {
+   "n": 100,
+   "name": "Al-Aadiyaat",
+   "english": "The Chargers",
+   "arabic": "سُوْرَةُ العٰدِيٰتِ",
+   "tr": "Âdiyât",
+   "place": "Mecca",
+   "verses": 11
+  },
+  {
+   "n": 101,
+   "name": "Al-Qaari'a",
+   "english": "The Calamity",
+   "arabic": "سُوْرَةُ الْقَارِعَةِ",
+   "tr": "Kâria",
+   "place": "Mecca",
+   "verses": 11
+  },
+  {
+   "n": 102,
+   "name": "At-Takaathur",
+   "english": "Competition",
+   "arabic": "سُوْرَةُ التَّكَاثُرِ",
+   "tr": "Tekâsür",
+   "place": "Mecca",
+   "verses": 8
+  },
+  {
+   "n": 103,
+   "name": "Al-Asr",
+   "english": "The Declining Day, Epoch",
+   "arabic": "سُوْرَةُ الْعَصْرِ",
+   "tr": "Asr",
+   "place": "Mecca",
+   "verses": 3
+  },
+  {
+   "n": 104,
+   "name": "Al-Humaza",
+   "english": "The Traducer",
+   "arabic": "سُوْرَةُ الْهُمَزَةِ",
+   "tr": "Hümeze",
+   "place": "Mecca",
+   "verses": 9
+  },
+  {
+   "n": 105,
+   "name": "Al-Fil",
+   "english": "The Elephant",
+   "arabic": "سُوْرَةُ الْفِيْلِ",
+   "tr": "Fîl",
+   "place": "Mecca",
+   "verses": 5
+  },
+  {
+   "n": 106,
+   "name": "Quraish",
+   "english": "Quraysh",
+   "arabic": "سُوْرَةُ قُرَيْشٍ",
+   "tr": "Kureyş",
+   "place": "Mecca",
+   "verses": 4
+  },
+  {
+   "n": 107,
+   "name": "Al-Maa'un",
+   "english": "Almsgiving",
+   "arabic": "سُوْرَةُ الْمَاعُوْنِ",
+   "tr": "Mâûn",
+   "place": "Mecca",
+   "verses": 7
+  },
+  {
+   "n": 108,
+   "name": "Al-Kawthar",
+   "english": "Abundance",
+   "arabic": "سُوْرَةُ الْكَوْثَرِ",
+   "tr": "Kevser",
+   "place": "Mecca",
+   "verses": 3
+  },
+  {
+   "n": 109,
+   "name": "Al-Kaafiroon",
+   "english": "The Disbelievers",
+   "arabic": "سُوْرَةُ الْكَافِرُوْنَ",
+   "tr": "Kâfirûn",
+   "place": "Mecca",
+   "verses": 6
+  },
+  {
+   "n": 110,
+   "name": "An-Nasr",
+   "english": "Divine Support",
+   "arabic": "سُوْرَةُ النَّصْرِ",
+   "tr": "Nasr",
+   "place": "Madina",
+   "verses": 3
+  },
+  {
+   "n": 111,
+   "name": "Al-Masad",
+   "english": "The Palm Fibre",
+   "arabic": "سُوْرَةُ المَسَدِ",
+   "tr": "Tebbet",
+   "place": "Mecca",
+   "verses": 5
+  },
+  {
+   "n": 112,
+   "name": "Al-Ikhlaas",
+   "english": "Sincerity",
+   "arabic": "سُوْرَةُ الْاِخْلَاصِ",
+   "tr": "İhlâs",
+   "place": "Mecca",
+   "verses": 4
+  },
+  {
+   "n": 113,
+   "name": "Al-Falaq",
+   "english": "The Dawn",
+   "arabic": "سُوْرَةُ الْفَلَقِ",
+   "tr": "Felak",
+   "place": "Mecca",
+   "verses": 5
+  },
+  {
+   "n": 114,
+   "name": "An-Naas",
+   "english": "Mankind",
+   "arabic": "سُوْرَةُ النَّاسِ",
+   "tr": "Nâs",
+   "place": "Mecca",
+   "verses": 6
+  }
+ ]
+}
