@@ -53,16 +53,26 @@ isnady checks the file (the zip must hold `isnady.db`, the schema must be one it
 ```
 isnady-data/
 ├── catalog.json                     the list isnady reads (schema isnady-catalog/1)
-├── sunni/
-│   ├── sahih_al_bukhari/
-│   │   ├── book.json                numbers, chapters, references, grades (schema isnady-book/1)
-│   │   ├── ara.json                 the Arabic text, chapter titles
-│   │   ├── eng.json  tur.json …     one file per translation
-│   ├── musnad_ahmad_ibn_hanbal/
-│   └── …
-├── shia/
-│   ├── al_kafi_al_kulayni/
-│   └── …
+├── quran/                           the Qur'an, shared by both roads
+│   ├── suras.json                   the 114 suras
+│   ├── ara/ara-quransimple.json     the Arabic (Tanzil, verbatim)
+│   └── tur/  eng/  urd/ …           the translations, one folder per language
+├── hadith/                          the hadith collections
+│   ├── sunni/
+│   │   ├── sahih_al_bukhari/
+│   │   │   ├── book.json            numbers, chapters, references, grades (schema isnady-book/1)
+│   │   │   ├── ara.json             the Arabic text, chapter titles
+│   │   │   └── eng.json  tur.json … one file per translation
+│   │   └── musnad_ahmad_ibn_hanbal/ …
+│   └── shia/
+│       └── al_kafi_al_kulayni/ …
+├── sahifa/                          the written sources (schema isnady-sahifa/1)
+│   ├── sunni/sahifat_hammam_ibn_munabbih.json …
+│   └── shia/kitab_ali_fi_al_kutub_al_shiiyya.json …
+├── sira/
+│   └── sunni/al_sira_al_nabawiyya_ibn_hisham.md
+├── tabaqat/
+│   └── sunni/siyar_alam_al_nubala_al_dhahabi.md  tadhkirat_al_huffaz_al_dhahabi.md
 ├── rijal/
 │   ├── sunni/taqrib_al_tahdhib_ibn_hajar_al_asqalani.md
 │   └── shia/rijal_al_najashi_ahmad_ibn_ali_al_najashi.md
@@ -78,7 +88,7 @@ isnady-data/
 
 ## 📗 Sunni hadith collections
 
-The six books, the Muwatta and the Forties in Arabic and up to eight translations, with the grades of al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded them; Musnad Ahmad and Sunan al-Darimi in fully voweled Arabic; five more books in Arabic and English, by chapter.
+Folder: `hadith/sunni/`. The six books, the Muwatta and the Forties in Arabic and up to eight translations, with the grades of al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded them; Musnad Ahmad and Sunan al-Darimi in fully voweled Arabic; five more books in Arabic and English, by chapter.
 
 | Book | | Compiler | Hadith | Languages | Import id |
 |---|---|---|--:|---|---|
@@ -103,7 +113,7 @@ The six books, the Muwatta and the Forties in Arabic and up to eight translation
 
 ## 📘 Shia hadith collections
 
-al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mir'at al-'Uqul*, 13,931) and al-Behbudi's selection (*Sahih al-Kafi*), and fifteen more works of al-Saduq, al-Mufid, Ibn Qulawayh, al-Nu'mani, al-Tusi, al-Ahwazi and al-Muhsini, in Arabic and English.
+Folder: `hadith/shia/`. al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mir'at al-'Uqul*, 13,931) and al-Behbudi's selection (*Sahih al-Kafi*), and fifteen more works of al-Saduq, al-Mufid, Ibn Qulawayh, al-Nu'mani, al-Tusi, al-Ahwazi and al-Muhsini, in Arabic and English.
 
 | Book | | Compiler | Hadith | Languages | Import id |
 |---|---|---|--:|---|---|
@@ -126,6 +136,8 @@ al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mi
 | | | **16 books** | **23,614** | | |
 
 ## 👥 Narrators (rijal)
+
+Folders: `rijal/sunni/` and `rijal/shia/`.
 
 | Work | | Tradition | Entries | What isnady does with it | Import id |
 |---|---|---|--:|---|---|
@@ -161,7 +173,7 @@ Layout: `quran/suras.json` (the 114 suras: names in Arabic, English and Turkish,
 
 ## 📜 Sira and tabaqat
 
-The life of the Prophet ﷺ and the lives of the scholars, generation by generation — read in isnady's **Books** like the hadith collections, chapter by chapter; al-Dhahabi's two works also give the text beside a narrator's written life and the Huffaz of the Scholars page.
+The life of the Prophet ﷺ and the lives of the scholars, generation by generation — read in isnady's **Books** like the hadith collections, chapter by chapter; al-Dhahabi's two works also give the text beside a narrator's written life and the Huffaz of the Scholars page. Folders: `sira/sunni/` and `tabaqat/sunni/` (Sunni works; a Shia work would stand in `sira/shia/`, `tabaqat/shia/`).
 
 | Work | | Compiler | What it holds | Import id |
 |---|---|---|---|---|
@@ -171,7 +183,7 @@ The life of the Prophet ﷺ and the lives of the scholars, generation by generat
 
 ## 📜 Written sources (sahifa)
 
-The hadith that were written down early, and where that writing lives in the books — the Sunni road and the Shia road apart. Each file lists its hadith as `[book, number]` of the books here; imported, it is a book of isnady's **Books** whose hadith are those of the books themselves (nothing is copied). Only Hammam's sahifa came down whole; the others live in later books and are named so.
+The hadith that were written down early, and where that writing lives in the books — the Sunni road and the Shia road apart. Each file lists its hadith as `[book, number]` of the books here; imported, it is a book of isnady's **Books** whose hadith are those of the books themselves (nothing is copied). Only Hammam's sahifa came down whole; the others live in later books and are named so. Folders: `sahifa/sunni/` and `sahifa/shia/`.
 
 
 **Sunni**
@@ -209,13 +221,13 @@ The hadith that were written down early, and where that writing lives in the boo
   "entries": [
     { "id": "sahih_al_bukhari", "title": "Sahih al-Bukhari", "title_ar": "صحيح البخاري",
       "kind": "hadith", "tradition": "sunni", "format": "isnady",
-      "location": "sunni/sahih_al_bukhari/book.json", "book": "bukhari",
+      "location": "hadith/sunni/sahih_al_bukhari/book.json", "book": "bukhari",
       "languages": ["ara", "eng", "tur"], "license": "Unlicense", "hadith": 7590 }
   ]
 }
 ```
 
-`location` is relative to the catalog, so the same catalog works on GitHub, in a clone and on a USB stick. `kind` is `hadith` or `rijal`; `tradition` is `sunni` or `shia`; `format` names the reader isnady uses (`isnady`, `taqrib`, `najashi` …).
+`location` is relative to the catalog, so the same catalog works on GitHub, in a clone and on a USB stick. `kind` is `hadith` or `rijal` (in `entries`), `quran`, `sahifa`, `sira` or `tabaqat` (in `library`); `tradition` is `sunni` or `shia` (`all` for the Qur'an), and the folder follows both: `<kind>/<tradition>/…`; `format` names the reader isnady uses (`isnady`, `taqrib`, `najashi`, `openiti-work`, `isnady-sahifa` …).
 
 </details>
 
