@@ -1,0 +1,120 @@
+{
+ "schema": "isnady-sahifa/1",
+ "id": "sahifat_ali_ibn_abi_talib",
+ "source": "ali",
+ "road": "sunni",
+ "layer": 2,
+ "title": {
+  "en": "The sahifa of 'Ali",
+  "tr": "Hz. Ali'nin sahîfesi",
+  "ar": "صحيفة علي"
+ },
+ "lead": {
+  "en": "Asked whether the Prophet's family had been given anything besides the Qur'an, 'Ali said: nothing but the Book of God and what is in this sahifa — blood-money, the freeing of captives, and that no Muslim is killed for a disbeliever (al-Bukhari); in other versions also the sanctity of Medina. He kept it in the sheath of his sword. The hadith that name it, as the Sunni books give them.",
+  "tr": "Ehl-i Beyt'e Kur'an'dan başka bir şey verilip verilmediği sorulunca Hz. Ali: Allah'ın Kitabı ve bu sahîfedekilerden başka bir şey yok, dedi — diyetler, esirlerin kurtarılması ve bir Müslüman'ın bir kâfir için öldürülmemesi (Buhârî); başka rivayetlerde Medine'nin haremliği de. Onu kılıcının kınında taşırdı. Onu anan hadisler, Sünnî kitapların verdiği gibi.",
+  "ar": "سُئل عليّ: هل خصّكم رسول الله ﷺ بشيء سوى القرآن؟ فقال: ما عندنا إلا كتاب الله وما في هذه الصحيفة: العقل، وفكاك الأسير، ولا يُقتل مسلم بكافر (البخاري)، وفي روايات أخرى حرم المدينة. وكانت في قراب سيفه. والأحاديث التي تذكرها كما في الكتب السنية."
+ },
+ "how": {
+  "en": "The hadith of the Sunni books that speak of \"this sahifa\".",
+  "tr": "Sünnî kitaplarda \"bu sahîfe\"den söz eden hadisler.",
+  "ar": "أحاديث الكتب السنية التي تذكر «هذه الصحيفة»."
+ },
+ "hadith": [
+  [
+   "bukhari",
+   "111"
+  ],
+  [
+   "bukhari",
+   "1870"
+  ],
+  [
+   "bukhari",
+   "3047"
+  ],
+  [
+   "bukhari",
+   "3172"
+  ],
+  [
+   "bukhari",
+   "3179"
+  ],
+  [
+   "bukhari",
+   "6755"
+  ],
+  [
+   "bukhari",
+   "7300"
+  ],
+  [
+   "muslim",
+   "3327"
+  ],
+  [
+   "muslim",
+   "3794"
+  ],
+  [
+   "abudawud",
+   "975"
+  ],
+  [
+   "abudawud",
+   "2034"
+  ],
+  [
+   "tirmidhi",
+   "2127"
+  ],
+  [
+   "nasai",
+   "4744"
+  ],
+  [
+   "ibnmajah",
+   "2658"
+  ],
+  [
+   "ahmad",
+   "250"
+  ],
+  [
+   "ahmad",
+   "581"
+  ],
+  [
+   "ahmad",
+   "743"
+  ],
+  [
+   "ahmad",
+   "759"
+  ],
+  [
+   "ahmad",
+   "832"
+  ],
+  [
+   "ahmad",
+   "916"
+  ],
+  [
+   "ahmad",
+   "986"
+  ],
+  [
+   "riyad",
+   "1125"
+  ],
+  [
+   "bulugh",
+   "1350"
+  ],
+  [
+   "mishkat",
+   "2614"
+  ]
+ ]
+}

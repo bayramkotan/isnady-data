@@ -1,0 +1,56 @@
+{
+ "schema": "isnady-sahifa/1",
+ "id": "kitab_al_sadaqa_abi_bakr",
+ "source": "zakat",
+ "road": "sunni",
+ "layer": 2,
+ "title": {
+  "en": "Abu Bakr's letter on zakat",
+  "tr": "Hz. Ebû Bekir'in zekât mektubu",
+  "ar": "كتاب أبي بكر في الصدقة"
+ },
+ "lead": {
+  "en": "When Abu Bakr sent Anas b. Malik to Bahrain he wrote for him \"the obligation of zakat which the Messenger of God ﷺ imposed on the Muslims\": how much is due on camels, sheep and silver (al-Bukhari, through Anas's grandson Thumama, who had the letter).",
+  "tr": "Hz. Ebû Bekir, Enes b. Mâlik'i Bahreyn'e gönderirken ona \"Resûlullah'ın ﷺ Müslümanlara farz kıldığı zekât\"ı yazdı: deve, koyun ve gümüşte ne kadar verileceği (Buhârî; mektup Enes'in torunu Sümâme'deydi).",
+  "ar": "لما وجّه أبو بكر أنسَ بن مالك إلى البحرين كتب له «فريضة الصدقة التي فرض رسول الله ﷺ على المسلمين»: ما يجب في الإبل والغنم والفضة (البخاري، من طريق ثمامة حفيد أنس، وكان الكتاب عنده)."
+ },
+ "how": {
+  "en": "The hadith that quote the letter (\"he wrote for him this letter\", \"the obligation of zakat which …\").",
+  "tr": "Mektubu aktaran hadisler (\"ona bu mektubu yazdı\", \"farz kıldığı zekât …\").",
+  "ar": "الأحاديث التي تنقل الكتاب («كتب له هذا الكتاب»، «فريضة الصدقة التي فرض …»)."
+ },
+ "hadith": [
+  [
+   "bukhari",
+   "1454"
+  ],
+  [
+   "bukhari",
+   "2487"
+  ],
+  [
+   "bukhari",
+   "3106"
+  ],
+  [
+   "bukhari",
+   "6955"
+  ],
+  [
+   "abudawud",
+   "1567"
+  ],
+  [
+   "ibnmajah",
+   "1800"
+  ],
+  [
+   "bulugh",
+   "708"
+  ],
+  [
+   "mishkat",
+   "1710"
+  ]
+ ]
+}

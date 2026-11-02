@@ -1,0 +1,60 @@
+{
+ "schema": "isnady-sahifa/1",
+ "id": "mushaf_fatima_fi_al_kutub_al_shiiyya",
+ "source": "fatima",
+ "road": "shia",
+ "layer": 2,
+ "title": {
+  "en": "Mushaf Fatima, as the Shia books relate it",
+  "tr": "Mushaf-ı Fâtıma (Şiî kitapların anlattığı gibi)",
+  "ar": "مصحف فاطمة كما ترويه الكتب الشيعية"
+ },
+ "lead": {
+  "en": "The Shia books relate that the Imams had a book called Mushaf Fatima, and say in the same breath that it is not a Qur'an: \"not one letter of your Qur'an is in it\" (al-Kafi). Shown as these books give it, in their own words.",
+  "tr": "Şiî kitaplar imamların yanında Mushaf-ı Fâtıma adlı bir kitap bulunduğunu anlatır ve aynı yerde onun bir Kur'an olmadığını söyler: \"İçinde sizin Kur'an'ınızdan tek harf yoktur\" (el-Kâfî). Bu kitapların kendi sözleriyle, verdikleri gibi gösterilir.",
+  "ar": "تروي الكتب الشيعية أن عند الأئمة كتابًا يسمّى مصحف فاطمة، وتقول في الموضع نفسه إنه ليس قرآنًا: «ما فيه من قرآنكم حرف واحد» (الكافي). ويُعرض كما تعطيه هذه الكتب بألفاظها."
+ },
+ "how": {
+  "en": "The hadith of the Shia books that name \"Mushaf Fatima\".",
+  "tr": "Şiî kitaplarda \"Mushaf-ı Fâtıma\"yı anan rivayetler.",
+  "ar": "أحاديث الكتب الشيعية التي تذكر «مصحف فاطمة»."
+ },
+ "hadith": [
+  [
+   "kafi",
+   "1:632"
+  ],
+  [
+   "kafi",
+   "1:633"
+  ],
+  [
+   "kafi",
+   "1:634"
+  ],
+  [
+   "kafi",
+   "1:635"
+  ],
+  [
+   "kafi",
+   "1:636"
+  ],
+  [
+   "kafi",
+   "8:18"
+  ],
+  [
+   "uyun",
+   "1:167"
+  ],
+  [
+   "khisal",
+   "1146"
+  ],
+  [
+   "maani",
+   "123"
+  ]
+ ]
+}

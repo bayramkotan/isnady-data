@@ -1,0 +1,44 @@
+{
+ "schema": "isnady-sahifa/1",
+ "id": "al_jamia_fi_al_kutub_al_shiiyya",
+ "source": "jamia",
+ "road": "shia",
+ "layer": 2,
+ "title": {
+  "en": "al-Jami'a",
+  "tr": "el-Câmia",
+  "ar": "الجامعة"
+ },
+ "lead": {
+  "en": "In al-Kafi (Kitab al-Hujja) the Imam describes al-Jami'a: a scroll seventy cubits long by the cubit of the Messenger of God ﷺ, from his dictation and in 'Ali's hand, holding every lawful and unlawful thing people need. The hadith of the Shia books that describe it.",
+  "tr": "el-Kâfî'de (Kitâbü'l-Hucce) imam el-Câmia'yı anlatır: Resûlullah'ın ﷺ zirâıyla yetmiş zirâ uzunluğunda, onun yazdırmasıyla ve Hz. Ali'nin eliyle yazılmış, insanların ihtiyaç duyduğu her helâl ve haramı içeren bir sayfa. Onu anlatan Şiî rivayetler.",
+  "ar": "في الكافي (كتاب الحجة) يصف الإمام الجامعة: صحيفة طولها سبعون ذراعًا بذراع رسول الله ﷺ، من إملائه وخط علي، فيها كل حلال وحرام يحتاج إليه الناس. وهذه أحاديث الكتب الشيعية التي تصفها."
+ },
+ "how": {
+  "en": "The hadith of the Shia books that name al-Jami'a with its length in cubits.",
+  "tr": "Şiî kitaplarda el-Câmia'yı zirâ ölçüsüyle anan rivayetler.",
+  "ar": "أحاديث الكتب الشيعية التي تذكر الجامعة مع طولها بالذراع."
+ },
+ "hadith": [
+  [
+   "kafi",
+   "1:632"
+  ],
+  [
+   "kafi",
+   "1:636"
+  ],
+  [
+   "uyun",
+   "1:167"
+  ],
+  [
+   "khisal",
+   "1146"
+  ],
+  [
+   "maani",
+   "123"
+  ]
+ ]
+}

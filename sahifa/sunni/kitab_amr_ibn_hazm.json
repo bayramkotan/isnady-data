@@ -1,0 +1,48 @@
+{
+ "schema": "isnady-sahifa/1",
+ "id": "kitab_amr_ibn_hazm",
+ "source": "hazm",
+ "road": "sunni",
+ "layer": 2,
+ "title": {
+  "en": "The letter for 'Amr b. Hazm",
+  "tr": "Amr b. Hazm'a yazılan mektup",
+  "ar": "كتاب عمرو بن حزم"
+ },
+ "lead": {
+  "en": "The letter the Prophet ﷺ had written for 'Amr b. Hazm when he sent him to Yemen: blood-money, zakat, and that none but the pure touch the Qur'an. Malik and al-Nasa'i give parts of it; the family of 'Amr b. Hazm kept it.",
+  "tr": "Resûlullah'ın ﷺ Amr b. Hazm'ı Yemen'e gönderirken onun için yazdırdığı mektup: diyetler, zekât ve Kur'an'a temizlerden başkasının dokunmaması. Mâlik ve Nesâî ondan parçalar verir; mektup Amr b. Hazm'ın ailesinde saklandı.",
+  "ar": "الكتاب الذي كتبه رسول الله ﷺ لعمرو بن حزم حين بعثه إلى اليمن: الديات والصدقة وألا يمسّ القرآن إلا طاهر. يروي مالك والنسائي أجزاءً منه، وكان عند آل عمرو بن حزم."
+ },
+ "how": {
+  "en": "The hadith that name the letter \"for 'Amr b. Hazm\".",
+  "tr": "\"Amr b. Hazm için\" yazılan mektubu anan hadisler.",
+  "ar": "الأحاديث التي تذكر الكتاب «لعمرو بن حزم»."
+ },
+ "hadith": [
+  [
+   "nasai",
+   "4855"
+  ],
+  [
+   "nasai",
+   "4857"
+  ],
+  [
+   "malik",
+   "1552"
+  ],
+  [
+   "malik",
+   "1567"
+  ],
+  [
+   "bulugh",
+   "94"
+  ],
+  [
+   "mishkat",
+   "432"
+  ]
+ ]
+}

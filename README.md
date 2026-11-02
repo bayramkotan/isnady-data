@@ -169,6 +169,31 @@ The life of the Prophet ﷺ and the lives of the scholars, generation by generat
 | **Siyar A'lam al-Nubala'** | سير أعلام النبلاء | al-Dhahabi (d. 748) | 748). The lives of the Companions, the Successors and the scholars after them, generation by generation, to al-Dhahabi's own time — 5,851 entries; the source of the written lives isnady shows beside a narrator. | `siyar_alam_al_nubala_al_dhahabi` |
 | **Tadhkirat al-Huffaz** | تذكرة الحفاظ | al-Dhahabi (d. 748) | 748). The 1,176 hadith masters (huffaz) from Abu Bakr to al-Dhahabi's teachers, in 21 generations; the source of the Huffaz of the Scholars page. | `tadhkirat_al_huffaz_al_dhahabi` |
 
+## 📜 Written sources (sahifa)
+
+The hadith that were written down early, and where that writing lives in the books — the Sunni road and the Shia road apart. Each file lists its hadith as `[book, number]` of the books here; imported, it is a book of isnady's **Books** whose hadith are those of the books themselves (nothing is copied). Only Hammam's sahifa came down whole; the others live in later books and are named so.
+
+
+**Sunni**
+
+| Written source | | Hadith | Import id |
+|---|---|--:|---|
+| **The Sahifa of Hammam b. Munabbih** | صحيفة همام بن منبه | 138 | `sahifat_hammam_ibn_munabbih` |
+| **al-Sahifa al-Sadiqa of 'Abdullah b. 'Amr** | الصحيفة الصادقة لعبد الله بن عمرو | 253 | `al_sahifa_al_sadiqa_abd_allah_ibn_amr` |
+| **The sahifa of 'Ali** | صحيفة علي | 24 | `sahifat_ali_ibn_abi_talib` |
+| **Abu Bakr's letter on zakat** | كتاب أبي بكر في الصدقة | 8 | `kitab_al_sadaqa_abi_bakr` |
+| **The letter for 'Amr b. Hazm** | كتاب عمرو بن حزم | 6 | `kitab_amr_ibn_hazm` |
+| **Writing in the chains** | الكتابة في الأسانيد | 121 | `al_kitaba_fi_al_asanid_ahl_al_sunna` |
+
+**Shia**
+
+| Written source | | Hadith | Import id |
+|---|---|--:|---|
+| **The Book of 'Ali** | كتاب علي | 68 | `kitab_ali_fi_al_kutub_al_shiiyya` |
+| **al-Jami'a** | الجامعة | 5 | `al_jamia_fi_al_kutub_al_shiiyya` |
+| **Mushaf Fatima, as the Shia books relate it** | مصحف فاطمة كما ترويه الكتب الشيعية | 9 | `mushaf_fatima_fi_al_kutub_al_shiiyya` |
+| **Writing in the chains, and letters to the Imams** | الكتابة في الأسانيد والمكاتبة مع الأئمة | 339 | `al_mukataba_maa_al_aimma` |
+
 ---
 
 ## 🧩 The formats
