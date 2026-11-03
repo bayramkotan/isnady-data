@@ -227,7 +227,7 @@ The hadith that were written down early, and where that writing lives in the boo
 }
 ```
 
-`location` is relative to the catalog, so the same catalog works on GitHub, in a clone and on a USB stick. `kind` is `hadith` or `rijal` (in `entries`), `quran`, `sahifa`, `sira` or `tabaqat` (in `library`); `tradition` is `sunni` or `shia` (`all` for the Qur'an), and the folder follows both: `<kind>/<tradition>/…`; `format` names the reader isnady uses (`isnady`, `taqrib`, `najashi`, `openiti-work`, `isnady-sahifa` …).
+`location` is relative to the catalog, so the same catalog works on GitHub, in a clone and on a USB stick. `kind` is `hadith` or `rijal` (in `entries`), `quran`, `sahifa`, `sira` or `tabaqat` (in `library`); `tradition` is `sunni` or `shia` (`all` for the Qur'an), and the folder follows both: `<kind>/<tradition>/…`; `format` names the reader isnady uses (`isnady`, `taqrib`, `najashi`, `openiti-work`, `isnady-sahifa` …). `sha256` and `size` are the book's fingerprint (the sha256 of its files) and its bytes: isnady compares the fingerprint with the one it imported and offers only the books that changed (Get updates).
 
 </details>
 

@@ -31,7 +31,9 @@
    "hadith": 7590,
    "source_name": "isnady-data: Sahih al-Bukhari",
    "source_key": "isnady-bukhari",
-   "description": "Compiled by al-Bukhari (d. 256). Arabic and 8 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian, Tamil); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by al-Bukhari (d. 256). Arabic and 8 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian, Tamil); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "ec5c2590889629e40727ed6bf2a513a92a6a3d458731f43511c70ecfe8895b84",
+   "size": 78912862
   },
   {
    "id": "sahih_muslim",
@@ -57,7 +59,9 @@
    "hadith": 7564,
    "source_name": "isnady-data: Sahih Muslim",
    "source_key": "isnady-muslim",
-   "description": "Compiled by Muslim (d. 261). Arabic and 8 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian, Tamil); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by Muslim (d. 261). Arabic and 8 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian, Tamil); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "79524edb092927d68b27187dd8c307aa0ad62e7feb9467ef7b51fc44cddb6a99",
+   "size": 50781109
   },
   {
    "id": "sunan_abi_dawud",
@@ -82,7 +86,9 @@
    "hadith": 5274,
    "source_name": "isnady-data: Sunan Abi Dawud",
    "source_key": "isnady-abudawud",
-   "description": "Compiled by Abu Dawud (d. 275). Arabic and 7 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by Abu Dawud (d. 275). Arabic and 7 translations (English, Turkish, Urdu, Indonesian, Bengali, French, Russian); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "d1eafebdc6091bc0e3d89085534dd8df3201c3b9fd9ddf5827f47c022681490f",
+   "size": 30938168
   },
   {
    "id": "jami_al_tirmidhi",
@@ -105,7 +111,9 @@
    "hadith": 3998,
    "source_name": "isnady-data: Jami' al-Tirmidhi",
    "source_key": "isnady-tirmidhi",
-   "description": "Compiled by al-Tirmidhi (d. 279). Arabic and 5 translations (English, Turkish, Urdu, Indonesian, Bengali); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by al-Tirmidhi (d. 279). Arabic and 5 translations (English, Turkish, Urdu, Indonesian, Bengali); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "6ad6c9df88937bc7a91df7aff10d5e59b6ea002a645b6cf2ab9603d38b5730c5",
+   "size": 25308011
   },
   {
    "id": "sunan_al_nasai",
@@ -129,7 +137,9 @@
    "hadith": 5765,
    "source_name": "isnady-data: Sunan al-Nasa'i",
    "source_key": "isnady-nasai",
-   "description": "Compiled by al-Nasa'i (d. 303). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by al-Nasa'i (d. 303). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "173e283a822ace8590b4d47dfb2d4613ba208a5b65b174d4d9da62b96e82953f",
+   "size": 23068565
   },
   {
    "id": "sunan_ibn_majah",
@@ -153,7 +163,9 @@
    "hadith": 4343,
    "source_name": "isnady-data: Sunan Ibn Majah",
    "source_key": "isnady-ibnmajah",
-   "description": "Compiled by Ibn Maja (d. 273). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by Ibn Maja (d. 273). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "a345b0e9fb35a89f1ff2cb69bbdbfe8eb141c488799c447a1bbc9e59a8699349",
+   "size": 20332061
   },
   {
    "id": "muwatta_malik_ibn_anas",
@@ -177,7 +189,9 @@
    "hadith": 1927,
    "source_name": "isnady-data: Muwatta Malik",
    "source_key": "isnady-malik",
-   "description": "Compiled by Malik (d. 179). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by Malik (d. 179). Arabic and 6 translations (English, Turkish, Urdu, Indonesian, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "e19c66ad39d1af987e0e9c4eec98ff1a81c8cf850cd1e8d96a4e8d92eef94f68",
+   "size": 9473461
   },
   {
    "id": "al_arbain_al_nawawiyya",
@@ -199,7 +213,9 @@
    "hadith": 42,
    "source_name": "isnady-data: Forty Hadith of al-Nawawi",
    "source_key": "isnady-nawawi",
-   "description": "Compiled by al-Nawawi (d. 676). Arabic and 4 translations (English, Turkish, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by al-Nawawi (d. 676). Arabic and 4 translations (English, Turkish, Bengali, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "4ca3d24051b7075fed9a74d6cd408c5ad9a6bfa9b47078f9e9c3a509f9328a3b",
+   "size": 188488
   },
   {
    "id": "al_arbain_al_qudsiyya",
@@ -219,7 +235,9 @@
    "hadith": 40,
    "source_name": "isnady-data: Forty Hadith Qudsi",
    "source_key": "isnady-qudsi",
-   "description": "Arabic and 2 translations (English, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Arabic and 2 translations (English, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "7a9861dd371e4628e07a4bf021d9e79a16448c613d19fe910a32c78aa17af7b3",
+   "size": 119112
   },
   {
    "id": "al_arbain_shah_waliullah_al_dehlawi",
@@ -239,7 +257,9 @@
    "hadith": 40,
    "source_name": "isnady-data: Forty Hadith of Shah Waliullah Dehlawi",
    "source_key": "isnady-dehlawi",
-   "description": "Compiled by Shah Waliullah (d. 1176). Arabic and 2 translations (English, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it."
+   "description": "Compiled by Shah Waliullah (d. 1176). Arabic and 2 translations (English, French); graded by al-Albani, Shu'ayb al-Arna'ut, Zubair 'Ali Za'i and others where they graded it.",
+   "sha256": "a5cce7c8308869b51950ca683a2df5fc6a4e05800fa9dbccf90e54ce2515e4e1",
+   "size": 11684
   },
   {
    "id": "musnad_ahmad_ibn_hanbal",
@@ -257,7 +277,9 @@
    "hadith": 26363,
    "source_name": "isnady-data: Musnad Ahmad ibn Hanbal",
    "source_key": "isnady-ahmad",
-   "description": "Compiled by Ahmad ibn Hanbal (d. 241). Arabic with full diacritics."
+   "description": "Compiled by Ahmad ibn Hanbal (d. 241). Arabic with full diacritics.",
+   "sha256": "f3d9da0b200cd6ae4619d772fc5d399e9fb1df35b1906696c1e3673a989ae294",
+   "size": 25343428
   },
   {
    "id": "sunan_al_darimi",
@@ -275,7 +297,9 @@
    "hadith": 3367,
    "source_name": "isnady-data: Sunan al-Darimi",
    "source_key": "isnady-darimi",
-   "description": "Compiled by al-Darimi (d. 255). Arabic with full diacritics."
+   "description": "Compiled by al-Darimi (d. 255). Arabic with full diacritics.",
+   "sha256": "95328dea82fd0d240274208bb39a39ffd3bcf275e3cc1cd06d1d8e8c1043e99f",
+   "size": 2657888
   },
   {
    "id": "riyad_al_salihin_al_nawawi",
@@ -294,7 +318,9 @@
    "hadith": 1896,
    "source_name": "isnady-data: Riyad al-Salihin",
    "source_key": "isnady-riyad",
-   "description": "Compiled by al-Nawawi (d. 676). Arabic and English, by chapter."
+   "description": "Compiled by al-Nawawi (d. 676). Arabic and English, by chapter.",
+   "sha256": "1fccd9f2a6414ed6843e3d96885a63f4dc165a9aac337f50c10eaece26f9f916",
+   "size": 1974036
   },
   {
    "id": "al_shamail_al_muhammadiyya_al_tirmidhi",
@@ -313,7 +339,9 @@
    "hadith": 402,
    "source_name": "isnady-data: al-Shama'il al-Muhammadiyya",
    "source_key": "isnady-shamail",
-   "description": "Compiled by al-Tirmidhi (d. 279). Arabic and English, by chapter."
+   "description": "Compiled by al-Tirmidhi (d. 279). Arabic and English, by chapter.",
+   "sha256": "51a894bb7c4b9be8fdf850833d6d994455f169e0f3777ee69c34cadaee49970f",
+   "size": 495746
   },
   {
    "id": "bulugh_al_maram_ibn_hajar_al_asqalani",
@@ -332,7 +360,9 @@
    "hadith": 1767,
    "source_name": "isnady-data: Bulugh al-Maram",
    "source_key": "isnady-bulugh",
-   "description": "Compiled by Ibn Hajar (d. 852). Arabic and English, by chapter."
+   "description": "Compiled by Ibn Hajar (d. 852). Arabic and English, by chapter.",
+   "sha256": "e5baa44167a3b1c7a2bb047117ff285a89ec09823da06978ba88571081d4879b",
+   "size": 1884066
   },
   {
    "id": "al_adab_al_mufrad_al_bukhari",
@@ -351,7 +381,9 @@
    "hadith": 1326,
    "source_name": "isnady-data: al-Adab al-Mufrad",
    "source_key": "isnady-adab",
-   "description": "Compiled by al-Bukhari (d. 256). Arabic and English, by chapter."
+   "description": "Compiled by al-Bukhari (d. 256). Arabic and English, by chapter.",
+   "sha256": "57532bcff16954838df3875c67726bc71ea0c4cadd04091d83c6b329c38a853f",
+   "size": 1629747
   },
   {
    "id": "mishkat_al_masabih_al_khatib_al_tabrizi",
@@ -370,7 +402,9 @@
    "hadith": 4428,
    "source_name": "isnady-data: Mishkat al-Masabih",
    "source_key": "isnady-mishkat",
-   "description": "Compiled by al-Khatib al-Tabrizi (d. 741). Arabic and English, by chapter."
+   "description": "Compiled by al-Khatib al-Tabrizi (d. 741). Arabic and English, by chapter.",
+   "sha256": "429ab8fff65b15e6cd299cdadc72eb8840e1cb223552a1befa0b6b3f4ab3e368",
+   "size": 4998599
   },
   {
    "id": "al_kafi_al_kulayni",
@@ -389,7 +423,9 @@
    "hadith": 14241,
    "source_name": "isnady-data: al-Kafi — al-Kulayni",
    "source_key": "isnady-kafi",
-   "description": "Compiled by al-Kulayni (d. 329). Arabic and English, with the grades of al-Majlisi (Mir'at al-'Uqul) and al-Behbudi (Sahih al-Kafi); 8 volumes, numbered volume:hadith."
+   "description": "Compiled by al-Kulayni (d. 329). Arabic and English, with the grades of al-Majlisi (Mir'at al-'Uqul) and al-Behbudi (Sahih al-Kafi); 8 volumes, numbered volume:hadith.",
+   "sha256": "1293039ff868d247195dca2e40d257e37054d369127b2d5ea0a76b9022456b07",
+   "size": 27015266
   },
   {
    "id": "uyun_akhbar_al_rida_al_shaykh_al_saduq",
@@ -408,7 +444,9 @@
    "hadith": 954,
    "source_name": "isnady-data: ʿUyun Akhbar al-Rida — al-Saduq",
    "source_key": "isnady-uyun",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English; 2 volumes, numbered volume:hadith."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English; 2 volumes, numbered volume:hadith.",
+   "sha256": "ed4574e879af9b7bb4cec792a60a96c72cce400a9935f60a6d70fa037978fa93",
+   "size": 3961842
   },
   {
    "id": "al_amali_al_shaykh_al_saduq",
@@ -427,7 +465,9 @@
    "hadith": 1082,
    "source_name": "isnady-data: al-Amali — al-Saduq",
    "source_key": "isnady-amali-saduq",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "ef7717e78242ff0d99a74a190bbf4e35540ff668aaa67b1dc916adfac24289ce",
+   "size": 3040905
   },
   {
    "id": "al_khisal_al_shaykh_al_saduq",
@@ -446,7 +486,9 @@
    "hadith": 1282,
    "source_name": "isnady-data: al-Khisal — al-Saduq",
    "source_key": "isnady-khisal",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "28e18b3c39bf7704d951774639f801bccff81ec5f7adb270e5b3ab945b089bfb",
+   "size": 2941485
   },
   {
    "id": "al_tawhid_al_shaykh_al_saduq",
@@ -465,7 +507,9 @@
    "hadith": 575,
    "source_name": "isnady-data: al-Tawhid — al-Saduq",
    "source_key": "isnady-tawhid",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "ba8f22eb4acfba94e1021db797473e9ff10798c1d8d59d089cb4665a8f585d60",
+   "size": 1877782
   },
   {
    "id": "maani_al_akhbar_al_shaykh_al_saduq",
@@ -484,7 +528,9 @@
    "hadith": 832,
    "source_name": "isnady-data: Ma'ani al-Akhbar — al-Saduq",
    "source_key": "isnady-maani",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "002aa2f8517136c63e1ea118626251b2b23a1ef7b5ef15eeb7aea888ee57a7eb",
+   "size": 1712745
   },
   {
    "id": "thawab_al_amal_wa_iqab_al_amal_al_shaykh_al_saduq",
@@ -503,7 +549,9 @@
    "hadith": 1107,
    "source_name": "isnady-data: Thawab al-A'mal wa 'Iqab al-A'mal — al-Saduq",
    "source_key": "isnady-thawab",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "48f251915700d829a6859a1a3db6116a7cd147aab15ae968e93c72389d74d33c",
+   "size": 1697067
   },
   {
    "id": "sifat_al_shia_al_shaykh_al_saduq",
@@ -522,7 +570,9 @@
    "hadith": 71,
    "source_name": "isnady-data: Sifat al-Shi'a — al-Saduq",
    "source_key": "isnady-sifat-shia",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "675463074038e1742c29aa81ff8a830bf86d80496eaeaf51c449555bac1ba6c7",
+   "size": 171284
   },
   {
    "id": "fadail_al_shia_al_shaykh_al_saduq",
@@ -541,7 +591,9 @@
    "hadith": 45,
    "source_name": "isnady-data: Fada'il al-Shi'a — al-Saduq",
    "source_key": "isnady-fadail-shia",
-   "description": "Compiled by al-Saduq (d. 381). Arabic and English."
+   "description": "Compiled by al-Saduq (d. 381). Arabic and English.",
+   "sha256": "c3aebb0a58b29670e01ab847fcbb4f908be3f60a0ae621b87126e3de5c4e4739",
+   "size": 116526
   },
   {
    "id": "al_amali_al_shaykh_al_mufid",
@@ -560,7 +612,9 @@
    "hadith": 387,
    "source_name": "isnady-data: al-Amali — al-Mufid",
    "source_key": "isnady-amali-mufid",
-   "description": "Compiled by al-Mufid (d. 413). Arabic and English."
+   "description": "Compiled by al-Mufid (d. 413). Arabic and English.",
+   "sha256": "cb4d2b0128344f475f87d252dced8654b2d1c6a4960ca3fc1487d60192d883f3",
+   "size": 1063680
   },
   {
    "id": "kamil_al_ziyarat_ibn_qulawayh_al_qummi",
@@ -579,7 +633,9 @@
    "hadith": 750,
    "source_name": "isnady-data: Kamil al-Ziyarat — Ibn Qulawayh",
    "source_key": "isnady-kamil-ziyarat",
-   "description": "Compiled by Ibn Qulawayh al-Qummi (d. 368). Arabic and English."
+   "description": "Compiled by Ibn Qulawayh al-Qummi (d. 368). Arabic and English.",
+   "sha256": "3d6afb1919a21d762fa162cfa932d3844f2a35ff004e49d493881ff8832717e0",
+   "size": 2008694
   },
   {
    "id": "kitab_al_ghayba_ibn_abi_zaynab_al_numani",
@@ -598,7 +654,9 @@
    "hadith": 468,
    "source_name": "isnady-data: Kitab al-Ghayba — al-Nu'mani",
    "source_key": "isnady-ghayba-numani",
-   "description": "Compiled by al-Nu'mani (d. c. 360). Arabic and English."
+   "description": "Compiled by al-Nu'mani (d. c. 360). Arabic and English.",
+   "sha256": "550feae85487049883c6d2ffb0a53baab1ac7f7da3e2dd1ff0c4d0ab58a2e219",
+   "size": 1017577
   },
   {
    "id": "kitab_al_ghayba_al_shaykh_al_tusi",
@@ -617,7 +675,9 @@
    "hadith": 774,
    "source_name": "isnady-data: Kitab al-Ghayba — al-Tusi",
    "source_key": "isnady-ghayba-tusi",
-   "description": "Compiled by al-Tusi (d. 460). Arabic and English."
+   "description": "Compiled by al-Tusi (d. 460). Arabic and English.",
+   "sha256": "57227e3f5e1362af27cd2db49c864fac1f7c28ef62dd9ae905694cf428451b30",
+   "size": 1403970
   },
   {
    "id": "kitab_al_mumin_al_husayn_ibn_said_al_ahwazi",
@@ -636,7 +696,9 @@
    "hadith": 201,
    "source_name": "isnady-data: Kitab al-Mu'min — al-Ahwazi",
    "source_key": "isnady-mumin",
-   "description": "Compiled by al-Husayn b. Sa'id al-Ahwazi. Arabic and English."
+   "description": "Compiled by al-Husayn b. Sa'id al-Ahwazi. Arabic and English.",
+   "sha256": "807d5952dbba8aa6b2d7b4d9bcdf22ed8c7668dea63a14296887a2811d0d6926",
+   "size": 182359
   },
   {
    "id": "kitab_al_zuhd_al_husayn_ibn_said_al_ahwazi",
@@ -655,7 +717,9 @@
    "hadith": 290,
    "source_name": "isnady-data: Kitab al-Zuhd — al-Ahwazi",
    "source_key": "isnady-zuhd",
-   "description": "Compiled by al-Husayn b. Sa'id al-Ahwazi. Arabic and English."
+   "description": "Compiled by al-Husayn b. Sa'id al-Ahwazi. Arabic and English.",
+   "sha256": "2318626ef62a9b810451b840c0e2d01ccb584dc71767e1bac841bbd6aee24184",
+   "size": 374850
   },
   {
    "id": "mujam_al_ahadith_al_mutabara_asif_al_muhsini",
@@ -674,7 +738,9 @@
    "hadith": 555,
    "source_name": "isnady-data: Mu'jam al-Ahadith al-Mu'tabara — al-Muhsini",
    "source_key": "isnady-mujam-mutabara",
-   "description": "Compiled by Asif al-Muhsini. Arabic and English."
+   "description": "Compiled by Asif al-Muhsini. Arabic and English.",
+   "sha256": "8a608adc3e03b774afe4e5f0d3d09435dbd839f8fa03b7153fd67060e46cd951",
+   "size": 854059
   },
   {
    "id": "taqrib_al_tahdhib_ibn_hajar_al_asqalani",
@@ -685,7 +751,9 @@
    "format": "taqrib",
    "location": "rijal/sunni/taqrib_al_tahdhib_ibn_hajar_al_asqalani.md",
    "license": null,
-   "description": "8,824 narrators of the six books with Ibn Hajar's verdict, rank, tabaqa, death year and book marks; identifies the narrators in every chain."
+   "description": "8,824 narrators of the six books with Ibn Hajar's verdict, rank, tabaqa, death year and book marks; identifies the narrators in every chain.",
+   "sha256": "178d493bd150032bc64a81ed4397d7e4a828209ee690deed283c1e63cada4637",
+   "size": 1899042
   },
   {
    "id": "rijal_al_najashi_ahmad_ibn_ali_al_najashi",
@@ -696,7 +764,9 @@
    "format": "najashi",
    "location": "rijal/shia/rijal_al_najashi_ahmad_ibn_ali_al_najashi.md",
    "license": null,
-   "description": "1,266 authors and narrators with al-Najashi's words, read on the Shia scale (thiqa, praised, muwaththaq, weak; creed: Imami, Waqifi, Fathi, Zaydi …); readable in Books."
+   "description": "1,266 authors and narrators with al-Najashi's words, read on the Shia scale (thiqa, praised, muwaththaq, weak; creed: Imami, Waqifi, Fathi, Zaydi …); readable in Books.",
+   "sha256": "a34bc95dbf6afef2b860bfd99e6a47fd16e3d16d2879ab145d30bf0abb5941e6",
+   "size": 849026
   }
  ],
  "quran": {
@@ -1702,8 +1772,8 @@
     "format": "openiti-work",
     "location": "https://raw.githubusercontent.com/OpenITI/0225AH/master/data/0213IbnHisham/0213IbnHisham.SiraNabawiyya/0213IbnHisham.SiraNabawiyya.Shamela0023833-ara1.completed"
    },
-   "size": 2680232,
-   "sha256": "2324caa9af62d10be2d9efc9199dd96e06af2a41ed6d80f8b61b8b90cd3a7dc6"
+   "size": 2654027,
+   "sha256": "8e0d274c7bf5433d0c160aceca7e446f545be02a054035239b2dd349b5c399cd"
   },
   {
    "id": "siyar_alam_al_nubala_al_dhahabi",
@@ -1730,8 +1800,8 @@
     "location": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0748Dhahabi/0748Dhahabi.SiyarAclamNubala/0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1.mARkdown"
    },
    "entries": "siyar",
-   "size": 22142440,
-   "sha256": "1085a52bcea0caec49562720bb311d60cfbc99b7ce608867e8fbb6774d4b5765"
+   "size": 21905214,
+   "sha256": "7ae7f691ffe236f5b888f5dfdf18becd9e5ea17ab6b5851528db5efd333886c0"
   },
   {
    "id": "tadhkirat_al_huffaz_al_dhahabi",
@@ -1758,8 +1828,8 @@
     "location": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0748Dhahabi/0748Dhahabi.TadhkiratHuffaz/0748Dhahabi.TadhkiratHuffaz.JK000532-ara1.mARkdown"
    },
    "entries": "tadhkira",
-   "size": 3057920,
-   "sha256": "e3a8cf0a76081d9ee94231697c8cf4e41e5e117570c434619957c7fb854d1ee4"
+   "size": 3033818,
+   "sha256": "b7d5740bf357700439fbe4ce8509e0893240839a1a62cc8ae39d320a9cd81d69"
   }
  ]
 }
