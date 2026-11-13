@@ -764,9 +764,35 @@
    "format": "najashi",
    "location": "rijal/shia/rijal_al_najashi_ahmad_ibn_ali_al_najashi.md",
    "license": null,
-   "description": "1,266 authors and narrators with al-Najashi's words, read on the Shia scale (thiqa, praised, muwaththaq, weak; creed: Imami, Waqifi, Fathi, Zaydi …); readable in Books.",
+   "description": "1,269 authors and narrators with al-Najashi's words, read on the Shia scale (thiqa, praised, muwaththaq, weak; creed: Imami, Waqifi, Fathi, Zaydi …); readable in Books.",
    "sha256": "a34bc95dbf6afef2b860bfd99e6a47fd16e3d16d2879ab145d30bf0abb5941e6",
    "size": 849026
+  },
+  {
+   "id": "al_fihrist_muhammad_ibn_al_hasan_al_tusi",
+   "title": "al-Fihrist — al-Tusi (Shia)",
+   "title_ar": "الفهرست للطوسي",
+   "kind": "rijal",
+   "tradition": "shia",
+   "format": "tusi_fihrist",
+   "location": "rijal/shia/al_fihrist_muhammad_ibn_al_hasan_al_tusi.md",
+   "license": null,
+   "description": "910 authors with al-Tusi's words and his roads to their books, read on the Shia scale; a name of the Shia chains not in al-Najashi is looked up here first; readable in Books.",
+   "sha256": "1c4975a18ca0bae40d4c062edad05eef5a8c2c243951dcc2a9bf785415db88df",
+   "size": 391359
+  },
+  {
+   "id": "rijal_al_tusi_muhammad_ibn_al_hasan_al_tusi",
+   "title": "Rijal al-Tusi — al-Tusi (Shia)",
+   "title_ar": "رجال الطوسي",
+   "kind": "rijal",
+   "tradition": "shia",
+   "format": "tusi_rijal",
+   "location": "rijal/shia/rijal_al_tusi_muhammad_ibn_al_hasan_al_tusi.md",
+   "license": null,
+   "description": "6,429 companions of the Prophet and of each Imam, and those who did not narrate from them, with al-Tusi's words read on the Shia scale; a name of the Shia chains not in al-Najashi or the Fihrist is looked up here; readable in Books.",
+   "sha256": "955b2b7114a5e2d96f11d23b0638c4ab2c9ec3a57ab13119d97cf7c2e128f678",
+   "size": 584931
   }
  ],
  "quran": {

@@ -75,7 +75,7 @@ isnady-data/
 │   └── sunni/siyar_alam_al_nubala_al_dhahabi.md  tadhkirat_al_huffaz_al_dhahabi.md
 ├── rijal/
 │   ├── sunni/taqrib_al_tahdhib_ibn_hajar_al_asqalani.md
-│   └── shia/rijal_al_najashi_ahmad_ibn_ali_al_najashi.md
+│   └── shia/rijal_al_najashi_ahmad_ibn_ali_al_najashi.md  al_fihrist_muhammad_ibn_al_hasan_al_tusi.md  rijal_al_tusi_muhammad_ibn_al_hasan_al_tusi.md
 ├── derived/                         computations already made (statistics, models …), as JSON
 └── database.json                    the ready database of the latest Release
 ```
@@ -142,7 +142,9 @@ Folders: `rijal/sunni/` and `rijal/shia/`.
 | Work | | Tradition | Entries | What isnady does with it | Import id |
 |---|---|---|--:|---|---|
 | **Taqrib al-Tahdhib — Ibn Hajar al-'Asqalani** | تقريب التهذيب | Sunni | 8,824 | every name in the Sunni chains is matched to its narrator; his rank on Ibn Hajar's twelve-step scale, tabaqa, death year and book marks | `taqrib_al_tahdhib_ibn_hajar_al_asqalani` |
-| **Rijal al-Najashi — al-Najashi (Shia)** | رجال النجاشي | Shia | 1,266 | every name in the Shia chains is matched to its narrator; his reliability and creed in the critic's own (Imami) terms — never on the Sunni scale | `rijal_al_najashi_ahmad_ibn_ali_al_najashi` |
+| **Rijal al-Najashi — al-Najashi (Shia)** | رجال النجاشي | Shia | 1,269 | every name in the Shia chains is matched to its narrator; his reliability and creed in the critic's own (Imami) terms — never on the Sunni scale | `rijal_al_najashi_ahmad_ibn_ali_al_najashi` |
+| **al-Fihrist — al-Tusi (Shia)** | الفهرست للطوسي | Shia | 910 | the authors and al-Tusi's roads to their books; a name of the Shia chains that al-Najashi does not have is looked up here (al-Hasan b. Mahbub, al-Husayn b. Sa'id …) | `al_fihrist_muhammad_ibn_al_hasan_al_tusi` |
+| **Rijal al-Tusi — al-Tusi (Shia)** | رجال الطوسي | Shia | 6,429 | the companions of the Prophet and of each Imam, and those who did not narrate from them; a name found in neither al-Najashi nor the Fihrist is looked up here. One man listed under two Imams is one narrator | `rijal_al_tusi_muhammad_ibn_al_hasan_al_tusi` |
 
 ## 📖 The Qur'an
 
@@ -276,7 +278,7 @@ Every book records its licence, and isnady shows them all under **Help → Licen
 | Musnad Ahmad, Sunan al-Darimi — voweled text | Open Hadith Data | ODbL 1.0 (a database made from it stays under the ODbL) |
 | Riyad al-Salihin, al-Shama'il, Bulugh al-Maram, al-Adab al-Mufrad, Mishkat — text and English | sunnah.com, via AhmedBaset/hadith-json | not stated |
 | The Shia collections — text, English, grades | thaqalayn.net, via MohammedArab1/ThaqalaynAPI | not stated |
-| The Taqrib, al-Najashi's Rijal; Ibn Hisham's Sira; al-Dhahabi's Siyar and Tadhkira | the OpenITI corpus | not stated |
+| The Taqrib, al-Najashi's Rijal, al-Tusi's Rijal and Fihrist; Ibn Hisham's Sira; al-Dhahabi's Siyar and Tadhkira | the OpenITI corpus | not stated |
 | The Qur'an — the Arabic and the translations | fawazahmed0/quran-api; the Arabic from tanzil.net, the translations from Tanzil, QuranEnc and others, each named in catalog.json | The Unlicense (the collection); Tanzil's text verbatim, as its terms ask |
 
 isnady itself is MIT-licensed: [bayramkotan/isnady](https://github.com/bayramkotan/isnady).
