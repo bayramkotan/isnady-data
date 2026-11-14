@@ -1,5 +1,5 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "schema": 8,
  "books": 39,
  "hadith": 133756,
@@ -46,8 +46,8 @@
   "openiti-najashi",
   "openiti-taqrib"
  ],
- "file": "isnady-db-2026-11-13.zip",
- "size": 508906515,
- "sha256": "4823faf9dcd968976f882d92c5fce221e04c38a6a0ffc3ac3dfda427a7d9577d",
- "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-11-13/isnady-db-2026-11-13.zip"
+ "file": "isnady-db-2026-11-14.zip",
+ "size": 509200031,
+ "sha256": "b21cf3c048f3865cedd7b6522e0e3c1516aceac7cb6332d59ce631b8db081728",
+ "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-11-14/isnady-db-2026-11-14.zip"
 }
