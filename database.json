@@ -4,7 +4,7 @@
  "books": 39,
  "hadith": 133756,
  "texts": 343470,
- "narrators": 10090,
+ "narrators": 17432,
  "grades": 116117,
  "sources": [
   "al_sahifa_al_sadiqa_abd_allah_ibn_amr",
@@ -44,10 +44,12 @@
   "isnady-zuhd",
   "lk-hadith-corpus",
   "openiti-najashi",
-  "openiti-taqrib"
+  "openiti-taqrib",
+  "openiti-tusi-fihrist",
+  "openiti-tusi-rijal"
  ],
  "file": "isnady-db-2026-11-14.zip",
- "size": 509200031,
- "sha256": "b21cf3c048f3865cedd7b6522e0e3c1516aceac7cb6332d59ce631b8db081728",
+ "size": 510370317,
+ "sha256": "8cab7c0b3da4aafa5525eded381192284ad259e45b2c43ab08a4718a865f58de",
  "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-11-14/isnady-db-2026-11-14.zip"
 }
