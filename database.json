@@ -1,11 +1,11 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "schema": 8,
- "books": 39,
- "hadith": 133756,
- "texts": 343470,
+ "books": 33,
+ "hadith": 99668,
+ "texts": 275468,
  "narrators": 17432,
- "grades": 116117,
+ "grades": 82441,
  "sources": [
   "al_sahifa_al_sadiqa_abd_allah_ibn_amr",
   "al_sira_al_nabawiyya_ibn_hisham",
@@ -42,14 +42,13 @@
   "isnady-tirmidhi",
   "isnady-uyun",
   "isnady-zuhd",
-  "lk-hadith-corpus",
   "openiti-najashi",
   "openiti-taqrib",
   "openiti-tusi-fihrist",
   "openiti-tusi-rijal"
  ],
- "file": "isnady-db-2026-11-14.zip",
- "size": 510370317,
- "sha256": "8cab7c0b3da4aafa5525eded381192284ad259e45b2c43ab08a4718a865f58de",
- "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-11-14/isnady-db-2026-11-14.zip"
+ "file": "isnady-db-2026-11-15.zip",
+ "size": 485185626,
+ "sha256": "dd4ea69e5240a2952d9ccfb54fed5faec0f64856f78fb1e6f1538a6a68cd790d",
+ "url": "https://github.com/bayramkotan/isnady-data/releases/download/db-2026-11-15/isnady-db-2026-11-15.zip"
 }
