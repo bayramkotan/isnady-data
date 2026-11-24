@@ -3,13 +3,13 @@
 <p align="center"><strong>The data of <a href="https://github.com/bayramkotan/isnady">isnady</a>: every hadith collection and rijal work it reads, Sunni and Shia, in one place and one format</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/hadith%20collections-33-1D4777?style=for-the-badge" alt="collections">
-  <img src="https://img.shields.io/badge/hadith-99%2C746-A47E24?style=for-the-badge" alt="hadith">
-  <img src="https://img.shields.io/badge/rijal%20works-2-5B6878?style=for-the-badge" alt="rijal">
+  <img src="https://img.shields.io/badge/hadith%20collections-36-1D4777?style=for-the-badge" alt="collections">
+  <img src="https://img.shields.io/badge/hadith-125%2C146-A47E24?style=for-the-badge" alt="hadith">
+  <img src="https://img.shields.io/badge/rijal%20works-5-5B6878?style=for-the-badge" alt="rijal">
   <img src="https://img.shields.io/badge/languages-9-14304F?style=for-the-badge" alt="languages">
 </p>
 
-isnady ships without hadith data. It reads it from a **data repository**, and this one is its default: everything isnady can read — **17 Sunni and 16 Shia hadith collections (99,746 hadith)** and **2 works on the narrators** — converted once into isnady's own format, each book in a folder named by its full title and its compiler. Nothing here has to be prepared by hand: isnady lists these books in **Settings → Data sources** and imports any of them with one click, or all of them at once.
+isnady ships without hadith data. It reads it from a **data repository**, and this one is its default: everything isnady can read — **17 Sunni and 19 Shia hadith collections (125,146 hadith)** and **5 works on the narrators** — converted once into isnady's own format, each book in a folder named by its full title and its compiler. Nothing here has to be prepared by hand: isnady lists these books in **Settings → Data sources** and imports any of them with one click, or all of them at once.
 
 <p align="center"><img src="https://raw.githubusercontent.com/bayramkotan/isnady/main/assets/screenshots/data-sources.png" alt="isnady — Settings → Data sources: this repository and its books, Sunni and Shia apart" width="760"></p>
 
@@ -65,7 +65,7 @@ isnady-data/
 │   │   │   └── eng.json  tur.json … one file per translation
 │   │   └── musnad_ahmad_ibn_hanbal/ …
 │   └── shia/
-│       └── al_kafi_al_kulayni/ …
+│       └── al_kafi_al_kulayni/  man_la_yahduruhu_al_faqih_al_shaykh_al_saduq/  tahdhib_al_ahkam_al_shaykh_al_tusi/  al_istibsar_al_shaykh_al_tusi/ …
 ├── sahifa/                          the written sources (schema isnady-sahifa/1)
 │   ├── sunni/sahifat_hammam_ibn_munabbih.json …
 │   └── shia/kitab_ali_fi_al_kutub_al_shiiyya.json …
@@ -113,11 +113,14 @@ Folder: `hadith/sunni/`. The six books, the Muwatta and the Forties in Arabic an
 
 ## 📘 Shia hadith collections
 
-Folder: `hadith/shia/`. al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mir'at al-'Uqul*, 13,931) and al-Behbudi's selection (*Sahih al-Kafi*), and fifteen more works of al-Saduq, al-Mufid, Ibn Qulawayh, al-Nu'mani, al-Tusi, al-Ahwazi and al-Muhsini, in Arabic and English.
+Folder: `hadith/shia/`. The Four Books: al-Kafi in its eight volumes with al-Majlisi's grade on nearly every hadith (*Mir'at al-'Uqul*, 13,931) and al-Behbudi's selection (*Sahih al-Kafi*), al-Saduq's *Man La Yahduruhu al-Faqih* and al-Tusi's *Tahdhib al-Ahkam* and *al-Istibsar* (in Arabic, from the OpenITI corpus); and fifteen more works of al-Saduq, al-Mufid, Ibn Qulawayh, al-Nu'mani, al-Tusi, al-Ahwazi and al-Muhsini, in Arabic and English.
 
 | Book | | Compiler | Hadith | Languages | Import id |
 |---|---|---|--:|---|---|
 | **al-Kafi — al-Kulayni** | الكافي | al-Kulayni (d. 329) | 14,241 | Arabic, English | `al_kafi_al_kulayni` |
+| **Man La Yahduruhu al-Faqih — al-Saduq** | من لا يحضره الفقيه | al-Saduq (d. 381) | 5,967 | Arabic | `man_la_yahduruhu_al_faqih_al_shaykh_al_saduq` |
+| **Tahdhib al-Ahkam — al-Tusi** | تهذيب الأحكام | al-Tusi (d. 460) | 13,927 | Arabic | `tahdhib_al_ahkam_al_shaykh_al_tusi` |
+| **al-Istibsar — al-Tusi** | الاستبصار | al-Tusi (d. 460) | 5,506 | Arabic | `al_istibsar_al_shaykh_al_tusi` |
 | **ʿUyun Akhbar al-Rida — al-Saduq** | عيون أخبار الرضا | al-Saduq (d. 381) | 954 | Arabic, English | `uyun_akhbar_al_rida_al_shaykh_al_saduq` |
 | **al-Amali — al-Saduq** | الأمالي (الصدوق) | al-Saduq (d. 381) | 1,082 | Arabic, English | `al_amali_al_shaykh_al_saduq` |
 | **al-Khisal — al-Saduq** | الخصال | al-Saduq (d. 381) | 1,282 | Arabic, English | `al_khisal_al_shaykh_al_saduq` |
@@ -133,7 +136,7 @@ Folder: `hadith/shia/`. al-Kafi in its eight volumes with al-Majlisi's grade on 
 | **Kitab al-Mu'min — al-Ahwazi** | كتاب المؤمن | al-Husayn b. Sa'id al-Ahwazi | 201 | Arabic, English | `kitab_al_mumin_al_husayn_ibn_said_al_ahwazi` |
 | **Kitab al-Zuhd — al-Ahwazi** | كتاب الزهد | al-Husayn b. Sa'id al-Ahwazi | 290 | Arabic, English | `kitab_al_zuhd_al_husayn_ibn_said_al_ahwazi` |
 | **Mu'jam al-Ahadith al-Mu'tabara — al-Muhsini** | معجم الأحاديث المعتبرة | Asif al-Muhsini | 555 | Arabic, English | `mujam_al_ahadith_al_mutabara_asif_al_muhsini` |
-| | | **16 books** | **23,614** | | |
+| | | **19 books** | **49,014** | | |
 
 ## 👥 Narrators (rijal)
 
@@ -145,6 +148,7 @@ Folders: `rijal/sunni/` and `rijal/shia/`.
 | **Rijal al-Najashi — al-Najashi (Shia)** | رجال النجاشي | Shia | 1,269 | every name in the Shia chains is matched to its narrator; his reliability and creed in the critic's own (Imami) terms — never on the Sunni scale | `rijal_al_najashi_ahmad_ibn_ali_al_najashi` |
 | **al-Fihrist — al-Tusi (Shia)** | الفهرست للطوسي | Shia | 910 | the authors and al-Tusi's roads to their books; a name of the Shia chains that al-Najashi does not have is looked up here (al-Hasan b. Mahbub, al-Husayn b. Sa'id …) | `al_fihrist_muhammad_ibn_al_hasan_al_tusi` |
 | **Rijal al-Tusi — al-Tusi (Shia)** | رجال الطوسي | Shia | 6,429 | the companions of the Prophet and of each Imam, and those who did not narrate from them; a name found in neither al-Najashi nor the Fihrist is looked up here. One man listed under two Imams is one narrator | `rijal_al_tusi_muhammad_ibn_al_hasan_al_tusi` |
+| **Ikhtiyar Ma'rifat al-Rijal — al-Kashshi (Shia)** | اختيار معرفة الرجال (رجال الكشي) | Shia | 498 men in 431 sections | al-Tusi's selection from al-Kashshi: the reports about each man, in their order (al-Kashshi gives reports, not a grade); a name of the Shia chains with its father that none of the three books above has is looked up here last | `ikhtiyar_marifat_al_rijal_al_kashshi` |
 
 ## 📖 The Qur'an
 
@@ -278,7 +282,7 @@ Every book records its licence, and isnady shows them all under **Help → Licen
 | Musnad Ahmad, Sunan al-Darimi — voweled text | Open Hadith Data | ODbL 1.0 (a database made from it stays under the ODbL) |
 | Riyad al-Salihin, al-Shama'il, Bulugh al-Maram, al-Adab al-Mufrad, Mishkat — text and English | sunnah.com, via AhmedBaset/hadith-json | not stated |
 | The Shia collections — text, English, grades | thaqalayn.net, via MohammedArab1/ThaqalaynAPI | not stated |
-| The Taqrib, al-Najashi's Rijal, al-Tusi's Rijal and Fihrist; Ibn Hisham's Sira; al-Dhahabi's Siyar and Tadhkira | the OpenITI corpus | not stated |
+| al-Saduq's Faqih, al-Tusi's Tahdhib and Istibsar; the Taqrib, al-Najashi's Rijal, al-Tusi's Rijal and Fihrist, al-Kashshi's Ikhtiyar; Ibn Hisham's Sira; al-Dhahabi's Siyar and Tadhkira | the OpenITI corpus | not stated |
 | The Qur'an — the Arabic and the translations | fawazahmed0/quran-api; the Arabic from tanzil.net, the translations from Tanzil, QuranEnc and others, each named in catalog.json | The Unlicense (the collection); Tanzil's text verbatim, as its terms ask |
 
 isnady itself is MIT-licensed: [bayramkotan/isnady](https://github.com/bayramkotan/isnady).

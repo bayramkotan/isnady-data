@@ -428,6 +428,66 @@
    "size": 27015266
   },
   {
+   "id": "man_la_yahduruhu_al_faqih_al_shaykh_al_saduq",
+   "title": "Man La Yahduruhu al-Faqih — al-Saduq",
+   "title_ar": "من لا يحضره الفقيه",
+   "kind": "hadith",
+   "tradition": "shia",
+   "format": "isnady",
+   "location": "hadith/shia/man_la_yahduruhu_al_faqih_al_shaykh_al_saduq/book.json",
+   "book": "faqih",
+   "languages": [
+    "ara"
+   ],
+   "license": null,
+   "hadith": 5967,
+   "source_name": "isnady-data: Man La Yahduruhu al-Faqih — al-Saduq",
+   "source_key": "isnady-faqih",
+   "description": "Compiled by al-Saduq (d. 381), who left out the chains but for the narrator he took the hadith from (his roads to them are at the end, in his Mashyakha). Arabic, as the OpenITI corpus has it; 4 volumes, the hadith numbered as the edition numbers them; al-Saduq's own words between them kept with them.",
+   "sha256": "45014577428f56ecba734ac369c494e194aa6087ca84f365809376631b9bb1ac",
+   "size": 3407521
+  },
+  {
+   "id": "tahdhib_al_ahkam_al_shaykh_al_tusi",
+   "title": "Tahdhib al-Ahkam — al-Tusi",
+   "title_ar": "تهذيب الأحكام",
+   "kind": "hadith",
+   "tradition": "shia",
+   "format": "isnady",
+   "location": "hadith/shia/tahdhib_al_ahkam_al_shaykh_al_tusi/book.json",
+   "book": "tahdhib",
+   "languages": [
+    "ara"
+   ],
+   "license": null,
+   "hadith": 13927,
+   "source_name": "isnady-data: Tahdhib al-Ahkam — al-Tusi",
+   "source_key": "isnady-tahdhib",
+   "description": "Compiled by al-Tusi (d. 460): al-Mufid's al-Muqni'a with the hadith for each of its rulings. Arabic, as the OpenITI corpus has it; 10 volumes, numbered volume:hadith as the edition numbers them; al-Mufid's and al-Tusi's own words kept in their places.",
+   "sha256": "3ed2e9e0c0f0968617628897b108bfb53dee626a8d470be0f56543cafa7a9896",
+   "size": 8708418
+  },
+  {
+   "id": "al_istibsar_al_shaykh_al_tusi",
+   "title": "al-Istibsar — al-Tusi",
+   "title_ar": "الاستبصار",
+   "kind": "hadith",
+   "tradition": "shia",
+   "format": "isnady",
+   "location": "hadith/shia/al_istibsar_al_shaykh_al_tusi/book.json",
+   "book": "istibsar",
+   "languages": [
+    "ara"
+   ],
+   "license": null,
+   "hadith": 5506,
+   "source_name": "isnady-data: al-Istibsar — al-Tusi",
+   "source_key": "isnady-istibsar",
+   "description": "Compiled by al-Tusi (d. 460): the hadith that seem to differ, each chapter with the way al-Tusi reconciles them. Arabic, as the OpenITI corpus has it; 4 volumes, numbered volume:hadith in the order of the edition; al-Tusi's own words kept in their places.",
+   "sha256": "97aa998a58ef08c9e622759f056d063148a8b368c31705b1fbca4482737bfec5",
+   "size": 3441221
+  },
+  {
    "id": "uyun_akhbar_al_rida_al_shaykh_al_saduq",
    "title": "ʿUyun Akhbar al-Rida — al-Saduq",
    "title_ar": "عيون أخبار الرضا",
@@ -793,6 +853,19 @@
    "description": "6,429 companions of the Prophet and of each Imam, and those who did not narrate from them, with al-Tusi's words read on the Shia scale; a name of the Shia chains not in al-Najashi or the Fihrist is looked up here; readable in Books.",
    "sha256": "955b2b7114a5e2d96f11d23b0638c4ab2c9ec3a57ab13119d97cf7c2e128f678",
    "size": 584931
+  },
+  {
+   "id": "ikhtiyar_marifat_al_rijal_al_kashshi",
+   "title": "Ikhtiyar Ma'rifat al-Rijal — al-Kashshi (Shia)",
+   "title_ar": "اختيار معرفة الرجال (رجال الكشي)",
+   "kind": "rijal",
+   "tradition": "shia",
+   "format": "kashshi",
+   "location": "rijal/shia/ikhtiyar_marifat_al_rijal_al_kashshi.md",
+   "license": null,
+   "description": "al-Tusi's selection from al-Kashshi's book of men: 431 sections, 498 men with the reports about them (al-Kashshi gives reports, not a grade); a name of the Shia chains with its father that al-Najashi and al-Tusi do not have is looked up here last; readable in Books.",
+   "sha256": "788e8c530c1c48f76c6df0b6b0cca4ecec5ad27a1c64aa5fa9a0069ae94f3787",
+   "size": 1103227
   }
  ],
  "quran": {
